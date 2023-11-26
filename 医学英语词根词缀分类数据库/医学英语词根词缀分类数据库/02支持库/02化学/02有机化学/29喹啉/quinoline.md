@@ -1,0 +1,16 @@
+- <span class="definition">含义：喹啉</span>
+- <span class="definition">变体：quinol, quinolin, quinolino</span>
+- <span class="definition">来源：拉丁单词chincona（意为cinchona tree，即金鸡纳树，可从中提取奎宁）</span>
+- <span class="definition">用途：构成喹啉相关词汇</span>
+
+---
+
+<span class="vocabulary">**quinoline**</span> [ˈkwɪnəˌliːn/ˈkwɪnəˌlɪn] n. 氮（杂）萘，喹啉
+
+<span class="vocabulary">**quinolyl**</span> ['kwɪnәlɪl] n. 喹啉基（一价）
+
+<span class="vocabulary">**chloroquinoline**</span> [ˌklɔ:rәˈkwɪnəˌliːn] n. 氯喹啉
+
+<span class="vocabulary">**nitroquinoline**</span> [ˌnaɪtrә'kwɪnəˌliːn] n. 硝基喹啉
+
+<span class="vocabulary">**isoquinoline**</span> [ˌaɪsəʊ'kwɪnəˌli:n] n. 异喹啉

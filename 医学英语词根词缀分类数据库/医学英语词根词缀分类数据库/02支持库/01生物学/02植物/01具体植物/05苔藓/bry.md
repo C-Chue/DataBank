@@ -1,0 +1,11 @@
+- <span class="definition">含义：苔藓</span>
+- <span class="definition">变体：bryo</span>
+- <span class="definition">来源：希腊单词bryon（意为moss，即苔藓）</span>
+- <span class="definition">用途：构成苔藓相关词汇</span>
+
+---
+
+<span class="vocabulary">**bryamycin**</span> [ˌbraɪəˈmaɪsɪn] n. 硫链丝菌素；藓霉素
+
+<span class="vocabulary">**bryostatin**</span> [ˌbraɪəˈstætɪn/braɪ'ɒstәtɪn] n. 苔藓虫素；6-硫代鸟嘌呤制剂
+

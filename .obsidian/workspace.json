@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "e9d44751e31a77ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f00d1dac4973c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c900d03d938e9d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bio tec/BioNTech创始人宣传癌症疫苗将于2030年前问世！.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "addb2e408114e073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bio tec/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95a6c95ee5f66bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "23cb2bc383d2946d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1056b621cb081c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b19eabe8fcac21e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99933e1236c943af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f0eb7b0093567a10",
+    "type": "split",
+    "children": [
+      {
+        "id": "781679ef0d6895f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65c0ceab4ad33fe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bio tec/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f33fb45785646314",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bio tec/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md"
+              }
+            }
+          },
+          {
+            "id": "b5f13d4b46858751",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "840dbae48ebc1625",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "canvas:建立新畫布": false,
+      "command-palette:開啟命令面板": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false
+    }
+  },
+  "active": "addb2e408114e073",
+  "lastOpenFiles": [
+    "Bio tec/BioNTech创始人宣传癌症疫苗将于2030年前问世！.md",
+    "Bio tec/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md",
+    "Bio tec/德国企业 BioNTech.canvas",
+    "格致·恋爱的苏格拉底/Pasted image 20210622211707.png",
+    "格致·恋爱的苏格拉底/Pasted image 20210531214703.png",
+    "格致·恋爱的苏格拉底/Pasted image 20210707191932.png",
+    "格致·恋爱的苏格拉底/Pasted image 20210728200902.png",
+    "图片存储/左沙欣 右.png",
+    "Bio tec/疫情都过去了，BioNTech盈利暴跌但还是很赚钱，那么今后呢.md",
+    "图片存储",
+    "未命名.canvas",
+    "燎原·西方文明简史/第二讲 希腊罗马七篇.md",
+    "202311261925.md",
+    "未命名 1",
+    "燎原·西方文明简史/暴君的死亡原因.png",
+    "格致·恋爱的苏格拉底/Step2：梦境怀疑2.png",
+    "格致·恋爱的苏格拉底/查理曼加冕.png",
+    "未命名 1.canvas",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/01主库/01解剖部位/138羊膜/羊膜.md",
+    "Bio tec",
+    "言尽意论.md",
+    "医学英语词根词缀分类数据库/02支持库/01生物学/01动物/01动物/动物.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/版权声明.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/本库简介.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/操作指南.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/必要的说明.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/获取资料.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/创建者的小故事.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/主页及目录/01基础分类目录/1 中英文目录 · 文字版.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/联系编者.md",
+    "医学英语词根词缀分类数据库/00本资料基本信息/致谢名单.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/02柠檬酸；枸橼酸/柠檬酸；枸橼酸.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/02柠檬酸；枸橼酸/citr.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/01酸/酸.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/01酸/oxy, ox-2.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/01酸/acid, acer, acet.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/磷/磷.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/磷/phosph-1.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/碳/碳.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/02柠檬酸；枸橼酸",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/01酸",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/磷",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/碳",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/碘",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/硫",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/硒",
+    "万国·西班牙语/西班牙语字母发音.png",
+    "

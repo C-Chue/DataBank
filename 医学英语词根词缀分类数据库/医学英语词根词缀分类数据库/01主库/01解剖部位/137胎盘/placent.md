@@ -1,0 +1,38 @@
+- <span class="definition">含义：胎盘</span>
+- <span class="definition">变体：placento, placenta</span>
+- <span class="definition">来源：拉丁单词placenta（意为cake，即蛋糕）</span>
+- <span class="definition">用途：构成胎盘相关词汇</span>
+
+
+---
+
+
+<span class="vocabulary">**placentology**</span> [ˌplæsənˈtɒlədʒi] n. 胎盘学
+
+<span class="vocabulary">**placenta**</span> [pləˈsentə] n. 胎盘（复数为placentae [pləˈsenti:]）
+
+<span class="vocabulary">**placental**</span> [pləˈsentl] adj. 胎盘的
+
+<span class="vocabulary">**fetoplacental**</span> [ˌfi:təʊpləˈsentl] adj. 胎儿胎盘的  
+
+<span class="vocabulary">**placentiform**</span> [pləˈsentɪˌfɔːm] adj. 胎盘形的
+
+<span class="vocabulary">**placentolysin**</span> [ˌplæsenˈtɒlɪsɪn] n. 胎盘溶解素
+
+<span class="vocabulary">**placentin**</span> [pləˈsentɪn] n.（牛）干胎盘粉
+
+<span class="vocabulary">**placentitis**</span> [ˌplæsənˈtaɪtɪs] n. 胎盘炎
+
+<span class="vocabulary">**placentography**</span> [ˌplæsənˈtɒgrəfi] n. 胎盘造影（术）
+
+<span class="vocabulary">**thermoplacentography**</span> [ˌθɜːməʊˌplæsənˈtɒgrəfi] n. 胎盘温度记录法  
+
+<span class="vocabulary">**placentotherapy**</span> [plәˌsentә(ʊ)'θerәpi] n. 胎盘制剂疗法
+
+<span class="vocabulary">**Placentalia**</span> [ˌplæsənˈteɪliə] n. [生物] 胎盘动物
+
+<span class="vocabulary">**placentate**</span> [pləˈsenˌteɪt] adj. 胎盘的 n. 有胎盘的哺乳动物
+
+<span class="vocabulary">**placentation**</span> [plæsen'teɪʃən] n. [动物；解剖学] 胎盘形成
+
+【说明：单词placenta和placental极常用，可构成很多固定搭配】

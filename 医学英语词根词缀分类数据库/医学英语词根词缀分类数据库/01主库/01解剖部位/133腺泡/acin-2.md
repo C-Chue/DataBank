@@ -1,0 +1,23 @@
+
+- <span class="definition">含义：腺泡</span>
+- <span class="definition">变体：acini</span>
+- <span class="definition">来源：希腊单词akini（意为small berry或grape，即小浆果或葡萄）</span>
+- <span class="definition">用途：构成腺泡相关词汇</span>
+
+---
+
+<span class="vocabulary">**acinus**</span> [ˈæsɪnəs] n. 葡萄核；小核果；葡萄状腺（在各种器官中发现的小而圆的结构，通常用于解剖学或组织学）（复数为acini [ˈæsɪnaɪ]）
+
+<span class="vocabulary">**acinic**</span> [əˈsɪnɪk] adj. 腺泡的
+
+<span class="vocabulary">**acinic cell carcinoma**</span> [əˌsɪnɪk sel kɑːsɪˈnəʊmə]（多发生于腮腺的）腺泡细胞癌
+
+<span class="vocabulary">**acinar**</span> [əˈsɪnə(r)/'æsɪnə(r)] adj. 腺泡的
+
+<span class="vocabulary">**acinose**</span> [ˈæsɪnəʊs] adj. 腺泡状的
+
+<span class="vocabulary">**acinotubular**</span> [ˌæsɪnəʊˈtjuːbjʊlə(r)] adj. 管状腺泡的 
+
+<span class="vocabulary">**acinous**</span> [ˈæsənəs/ˈæsɪnəs] adj. 腺胞状的；细粒状的
+
+<span class="vocabulary">**acinitis**</span> [ˌæsɪˈnaɪtɪs] n. 腺泡炎

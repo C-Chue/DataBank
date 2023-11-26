@@ -1,0 +1,27 @@
+- <span class="definition">含义：浆果状细菌（即球菌）</span>
+- <span class="definition">变体：cocco, coccus, cocci, coccal, cocca</span>
+- <span class="definition">来源：希腊单词kokkos（意为berry或seed，即浆果或种子）</span>
+- <span class="definition">用途：构成浆果状细菌（即球菌）相关词汇</span>
+
+---
+
+<span class="vocabulary">**coccus**</span> [ˈkɒkəs] n. [生] 球菌（复数为cocci [ˈkɒkəsaɪ]）
+
+<span class="vocabulary">**streptococcus**</span> [ˌstreptəˈkɒkəs] n. 链球菌（复数为streptococci [streptəˈkɒkaɪ]）
+
+<span class="vocabulary">**Coccidiosis**</span> [kɒkˌsɪdiˈəʊsɪs] n. 球虫病
+
+<span class="vocabulary">**coccal**</span> [ˈkɒkəl] adj. 球菌的
+
+<span class="vocabulary">**coccoid**</span> [ˈkɒkˌɔɪd] adj. 球菌状的，球菌样的
+
+<span class="vocabulary">**coccidium**</span> [kɒkˈsɪdiəm] n. 双孢子球虫，二联等孢子球虫（属球虫亚纲的原生动物）
+
+<span class="vocabulary">**coccobacillus**</span> [ˌkɒkəʊbəˈsɪləs] n. 球杆菌（复数为coccobacilli [ˌkɒkəʊbəˈsɪlaɪ/ˌkɒkəʊbəˈsɪli]）
+
+<span class="vocabulary">**coccerin**</span> [ˈkɒksərɪn] n. 胭脂虫蜡
+
+<span class="vocabulary">**coccigenic**</span> [ˌkɒksɪˈdʒenɪk] adj. 球菌引起的；球菌原的
+
+<span class="vocabulary">**coccode**</span> [ˈkɒkəʊd] n. 粒状体
+

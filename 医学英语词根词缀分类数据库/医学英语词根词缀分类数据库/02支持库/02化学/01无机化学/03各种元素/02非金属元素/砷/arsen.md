@@ -1,0 +1,31 @@
+- <span class="definition">含义：砷</span>
+- <span class="definition">变体：arseno</span>
+- <span class="definition">来源：拉丁单词arsenikon（意为yellow orpiment，即黄色的雌黄，其成分为三硫化二砷）</span>
+- <span class="definition">用途：构成砷相关词汇</span>
+
+---
+
+<span class="vocabulary">**Arsenium**</span> [ɑːˈsiːniəm] n. 砷
+
+<span class="vocabulary">**arsenious**</span> [ɑːˈsiːniəs] adj. 含砒素的，含砷的
+
+<span class="vocabulary">**arsenous**</span> [ˈɑːsənəs] adj. 含砷的，亚砷的 
+
+<span class="vocabulary">**arsenic**</span> [ˈɑːsnɪk] n. 砒霜；砷；三氧化二砷 adj. 砷的；含砷的
+
+<span class="vocabulary">**arsenical**</span> [ɑːˈsenɪkəl] adj. 砷的，含砒素的
+
+<span class="vocabulary">**arsenate**</span> [ˈɑːsəˌneɪt/ˈɑːsəˌnɪt] n. 砒酸盐，砷酸盐
+
+<span class="vocabulary">**arsenite**</span> [ˈɑːsɪˌnaɪt] n. 亚砷酸盐
+
+<span class="vocabulary">**arsenide**</span> [ˈɑːsəˌnaɪd] n. 砷化物
+
+<span class="vocabulary">**arsenopyrite**</span> [ˌɑːsɪnəʊˈpaɪraɪt/ɑːˌsenəˈpaɪraɪt] n. 毒砂，含砷黄铁矿
+
+<span class="vocabulary">**arseniasis**</span> [ˌɑːsɪˈnaɪəsɪs] n. 慢性砷中毒
+
+<span class="vocabulary">**arsenism**</span> [ˈɑːsɪnɪzəm] n. 慢性砷中毒
+
+<span class="vocabulary">**arsenotherapy**</span> [ˌɑːsɪnəʊˈθerəpi] n. 砷疗法
+

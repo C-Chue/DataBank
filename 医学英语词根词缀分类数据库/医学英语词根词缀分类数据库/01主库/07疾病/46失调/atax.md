@@ -1,0 +1,19 @@
+- <span class="definition">含义：失调</span>
+- <span class="definition">变体：ataxa, ataxo, ataxia</span>
+- <span class="definition">来源：希腊单词ataxia（意为lack of coordination或disorder，即缺乏协调或失调）</span>
+- <span class="definition">用途：构成失调相关词汇</span>
+
+---
+
+<span class="vocabulary">**ataxia**</span> [əˈtæksiə] n. 共济失调；混乱，无秩序
+
+<span class="vocabulary">**ataxic**</span> [əˈtæksɪk] adj. 混乱的；运动失调的
+
+<span class="vocabulary">**angioataxia**</span> [ˌændʒiəʊəˈtæksiə] n. 血管紧张失调
+
+<span class="vocabulary">**ataxaphasia**</span> [əˌtæksəˈfeɪziə] n. 组句不能，语气紊乱
+
+<span class="vocabulary">**ataxiagram**</span> [əˈtæksiəˌgræm] n. 运动失调描记图
+
+<span class="vocabulary">**ataxophobia**</span> [əˌtæksəˈfəʊbiə] n. 失调恐怖
+

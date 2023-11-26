@@ -1,0 +1,22 @@
+- <span class="definition">含义：颞部；颞骨</span>
+- <span class="definition">变体：temporo</span>
+- <span class="definition">来源：拉丁单词tempus（意为time或temporal bone，即时间或颞骨）</span>
+- <span class="definition">用途：构成颞部；颞骨相关词汇</span>
+
+
+---
+
+
+<span class="vocabulary">**tempora**</span> ['tempәrә] n. 颞颥，上颊
+
+<span class="vocabulary">**temporal**</span> [ˈtempərəl] adj. 颞部的
+
+<span class="vocabulary">**auriculotemporal**</span> [ɔːˌrɪkjʊləʊˈtempərəl] adj. 耳颞（部）的
+
+<span class="vocabulary">**frontotemporal**</span> [ˌfrʌntəʊˈtempərəl] adj. 额颞（骨）的
+
+<span class="vocabulary">**temporomandibular**</span> [ˌtempəroʊmænˈdɪbjulə(r)] adj. 颞下颌的
+
+<span class="vocabulary">**temporoparietal**</span> [ˌtempərəʊpəˈraɪɪtl] adj. 颞顶的
+
+【说明：单词temporal极常用，可构成很多固定搭配】

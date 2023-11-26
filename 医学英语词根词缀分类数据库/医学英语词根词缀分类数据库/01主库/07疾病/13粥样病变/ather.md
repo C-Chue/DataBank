@@ -1,0 +1,27 @@
+- <span class="definition">含义：粥样病变</span>
+- <span class="definition">变体：athero</span>
+- <span class="definition">来源：拉丁单词atherēs（意为gruel或porridge，即粥）</span>
+- <span class="definition">用途：构成粥样病变相关词汇</span>
+
+---
+
+<span class="vocabulary">**atherosclerosis**</span> [ˌæθərəʊskliəˈrəʊsɪs] n. 动脉粥样硬化 
+
+<span class="vocabulary">**atherosclerotic**</span> [ˌæθərəʊskliəˈrɒtɪk] adj. 动脉粥样硬化的
+
+<span class="vocabulary">**atheromasia**</span> [ˌæθәrəʊ'meɪziә] n. 动脉粥样变性
+
+<span class="vocabulary">**atheromatosis**</span> [ˌæθəˌrəʊməˈtəʊsɪs] n. 动脉粥样化症
+
+<span class="vocabulary">**atherosis**</span> [æsə'rəʊsɪs] n. 动脉粥样化
+
+<span class="vocabulary">**atherogenesis**</span> [ˌæθərəʊ'dʒenɪsɪs] n. 动脉粥样化形成
+
+<span class="vocabulary">**atherogenic**</span> [ˌæθərəʊˈdʒenɪk] adj. 导致动脉粥样化的
+
+<span class="vocabulary">**atheroma**</span> [ˌæθəˈrəʊmə] n. 粥样斑，粉瘤（复数为atheromas [ˌæθəˈrəʊməs]或atheromata [ˌæθəˈrəʊmətә]）
+
+<span class="vocabulary">**atheromatous**</span> [ˌæθə'rɒmətəs] adj. 动脉粥样化的，粉瘤的
+
+<span class="vocabulary">**atherectomy**</span> [ˌæθəˈrektəmi] n. 经皮腔内斑块旋切术
+

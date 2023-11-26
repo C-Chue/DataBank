@@ -1,0 +1,12 @@
+{
+  "Enhanced-editing:this-twoSpace": [],
+  "Enhanced-editing:add-twoSpace": [],
+  "Enhanced-editing:add-lines": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+- <span class="definition">含义：山</span>
+- <span class="definition">变体：oreo, oreino</span>
+- <span class="definition">来源：希腊单词oros（意为mountain，即山）</span>
+- <span class="definition">用途：构成山相关词汇</span>
+
+---
+
+<span class="vocabulary">**orosomycin**</span> [ɔ:rəsəʊ'maɪsɪn] n. 山霉素
+

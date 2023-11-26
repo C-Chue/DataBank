@@ -1,0 +1,8 @@
+- <span class="definition">含义：翅</span>
+- <span class="definition">变体：pterygo</span>
+- <span class="definition">来源：拉丁单词pteryx（意为wing或fin，即翅或鳍）</span>
+- <span class="definition">用途：构成翅相关词汇</span>
+
+---
+
+<span class="vocabulary">**pterygium**</span> [təˈrɪdʒiəm] n. [医学] 翼状胬肉

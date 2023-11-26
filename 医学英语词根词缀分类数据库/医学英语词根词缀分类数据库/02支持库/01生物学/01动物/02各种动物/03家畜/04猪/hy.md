@@ -1,0 +1,9 @@
+- <span class="definition">含义：猪  </span>
+- <span class="definition">变体：hyo</span>
+- <span class="definition">来源：希腊单词hus（意为swine或pig，即猪）  </span>
+- <span class="definition">用途：构成猪相关词汇</span>
+
+---
+
+<span class="vocabulary">**hyocholalic**</span> [haɪəkəʊ'lælɪk/haɪə'kɒləlɪk] adj. 猪胆的
+

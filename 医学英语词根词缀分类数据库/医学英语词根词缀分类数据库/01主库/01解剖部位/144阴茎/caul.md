@@ -1,0 +1,9 @@
+- <span class="definition">含义：阴茎</span>
+- <span class="definition">变体：cauli, caulo</span>
+- <span class="definition">来源：拉丁单词caulis（意为stem或stalk，即茎或柄）</span>
+- <span class="definition">用途：构成阴茎相关词汇，此时构词能力极弱</span>
+
+---
+
+<span class="vocabulary">**cauloplegia**</span> [kɔ:lә'pli:dʒiә] n. 阴茎麻痹，阴茎瘫痪
+

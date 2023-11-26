@@ -1,0 +1,22 @@
+- <span class="definition">含义：呋喃</span>
+- <span class="definition">变体：furano</span>
+- <span class="definition">来源：拉丁单词furfur（意为bran或husk，即糠或壳）</span>
+- <span class="definition">用途：构成呋喃相关词汇</span>
+
+---
+
+<span class="vocabulary">**furan**</span> [ˈfjʊəræn/fjʊəˈræn] n. 呋喃
+
+<span class="vocabulary">**furane**</span> [ˈfjʊəreɪn] n. 呋喃
+
+<span class="vocabulary">**furanidine**</span> [fjʊərə'nɪdi:n] n. 呋喃烷，四氢呋喃
+
+<span class="vocabulary">**furanomycin**</span> [fjʊərə'maɪsɪn] n. 呋喃霉素
+
+<span class="vocabulary">**furanose**</span> [ˈfjʊərænəʊz/ˈfjʊərænəʊs] n. 呋喃糖
+
+<span class="vocabulary">**furanoside**</span> [fjʊˈrænəˌsaɪd] n. 呋喃糖苷
+
+<span class="vocabulary">**benzofuran**</span> [ˌbenzəʊˈfjʊəræn] n. 苯并呋喃，香豆酮
+
+<span class="vocabulary">**naphthofuran**</span> [ˌnæfθә'fjʊәrәn] n. 萘并呋喃

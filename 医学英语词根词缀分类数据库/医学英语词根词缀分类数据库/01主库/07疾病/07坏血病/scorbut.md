@@ -1,0 +1,18 @@
+- <span class="definition">含义：坏血病</span>
+- <span class="definition">变体：scorbuti</span>
+- <span class="definition">来源：拉丁单词scorbutus（意为scurvy，即坏血病）</span>
+- <span class="definition">用途：构成坏血病相关词汇</span>
+
+
+---
+
+
+<span class="vocabulary">**scurvy**</span> [ˈskɜːvi] n. 坏血病
+
+<span class="vocabulary">**scorbutigenic**</span> [skɔ:ˌbju:tɪˈʤenɪk] adj. 致坏血病的
+
+<span class="vocabulary">**scorbutic**</span> [skɔːˈbjuːtɪk] adj. 坏血病的 n. 坏血病患者
+
+<span class="vocabulary">**scorbutus**</span> [skɔ:ˈbju:təs] n. 坏血病
+
+<span class="vocabulary">**antiscorbutic**</span> [ˌæntɪskɔːˈbjuːtɪk] adj. 抗坏血病的 n. 抗坏血病药

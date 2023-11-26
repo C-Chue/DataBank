@@ -1,0 +1,24 @@
+- <span class="definition">含义：心房</span>
+- <span class="definition">变体：atrio</span>
+- <span class="definition">来源：拉丁单词atrium（意为entrance hall或central court，即入口大厅或中央庭院）</span>
+- <span class="definition">用途：构成心房相关词汇</span>
+
+
+---
+
+
+<span class="vocabulary">**atrium**</span> [ˈeɪtriəm] n. 心房（复数为atria [ˈeɪtriə]）
+
+<span class="vocabulary">**atrial**</span> [ˈeɪtriəl] adj. 心房的，前房的
+
+<span class="vocabulary">**atrioventricular**</span> [ˌeɪtriəʊvenˈtrɪkjʊlə(r)] adj. 心房与心室的，房室的
+
+<span class="vocabulary">**atriocarotid**</span> [ˌeɪtriəʊ'kærәtɪd] adj.（心）房颈动脉的
+
+<span class="vocabulary">**atriomegaly**</span> [ˌeɪtriəˈmegəli] n. 心房肥大
+
+<span class="vocabulary">**atriotomy**</span> [ˌeɪtriˈɒtəmi] n. 心房切开术
+
+<span class="vocabulary">**atrioseptoplasty**</span> [ˌeɪtriəʊˌseptəˈplæsti] n. 房间隔修补术，房间隔成形术
+
+【说明：单词atrial和atrioventricular极常用，可构成很多固定搭配】

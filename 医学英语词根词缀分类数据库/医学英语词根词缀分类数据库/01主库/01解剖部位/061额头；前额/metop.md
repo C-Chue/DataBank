@@ -1,0 +1,18 @@
+- <span class="definition">含义：前额</span>
+- <span class="definition">变体：metopo</span>
+- <span class="definition">来源：希腊单词metopon（意为forehead，即前额）</span>
+- <span class="definition">用途：构成前额相关词汇</span>
+
+
+---
+
+
+<span class="vocabulary">**metopic**</span> [mɪˈtɒpɪk] adj. 额的 
+
+<span class="vocabulary">**metopion**</span> [məˈtəʊpjən] n. 额中点
+
+<span class="vocabulary">**metopism**</span> [ˈmetəˌpɪzəm] n. 囟门不闭
+
+<span class="vocabulary">**metopoplasty**</span> [mɪˈtɒpәˌplæsti] n. 额成形术
+
+<span class="vocabulary">**metoposcopy**</span> [ˌmetə(ʊ)ˈpɒskəpi] n. 相面术，额头相面术
