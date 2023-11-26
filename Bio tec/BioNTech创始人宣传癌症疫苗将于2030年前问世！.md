@@ -1,8 +1,7 @@
 原文地址：
 
-https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/biontech-labor-von-bild-so-kann-der-koerper-krebs-bald-selbst-besiegen-86183320.bild.html
 
-https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/biontech-labor-von-bild-so-kann-der-koerper-krebs-bald-selbst-besiegen-86183320.bild.html
+
 **导读**: 德国每年有近50万人被诊断出患有癌症。每年约有24万人死于癌症。癌症是德国第二大常见死因。或许BioNTech能改变这一局面。
 
 《图片报》：个性化癌症疗法——它应该是什么样的？
