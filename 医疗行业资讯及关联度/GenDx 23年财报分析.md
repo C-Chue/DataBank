@@ -1,3 +1,5 @@
+#CRO公司/GeneDx #CRO公司/Sema4 #财报 #遗传检测 #罕见病 
+
 GeneDx（原Sema4）是一家很有意思的公司，主要是从事遗传疾病检测，原先是做携带者筛查起家。
 
 本来呢，除了亏钱也没什么大毛病。
@@ -87,9 +89,7 @@ GeneDx冤枉啊，比窦娥还冤。
 - 大道已成
 
 GeneDx不仅冤枉，还有了很大的进步，甚至我们可以说其转型大道基本已成。
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/icugQvAnqxTrhJCicibW9lOoY6MfibicX4sKyicatvG4c3IWOJ6pI91cibUUtjkJhLoicmYmuoHH40a0vOwTsViaEIT3s6g/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![[Pasted image 20231127191352.png]]
 从样本的数量上来看，此前下定决心去打造的WES/WGS产品检测数量稳步提高。
 
 从同比上来看，**WES/WGS样本检测量同2022Q3的7722例提高到如今的13216例，涨幅高达71.1%。**
