@@ -1,3 +1,11 @@
 {
-  "markdown-importer:open": []
+  "markdown-importer:open": [],
+  "keyboard-analyzer:show-shortcuts-analyzer-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ]
 }

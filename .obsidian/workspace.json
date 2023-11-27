@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医疗行业资讯及关联度/GenDx 23年财报分析.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d85b45ac13cc03f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "手握17亿，裁员10%人.md",
+                "file": "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手握17亿，裁员10%人.md",
+                "file": "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手握17亿，裁员10%人.md"
+                "file": "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md"
               }
             }
           },
@@ -158,18 +145,26 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "d85b45ac13cc03f1",
+  "active": "c212f27689db5e0b",
   "lastOpenFiles": [
+    "[1].md",
+    "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
+    "系统管理/Markdown 基本语法/外掛/Markdown 格式轉換器.md",
+    "系统管理/Markdown 基本语法/外掛/ZK 卡片.md",
+    "医疗行业资讯及关联度/手握17亿，裁员10%人.md",
+    "系统管理/Image图片存储/Pasted image 20231127202203.png",
+    "医疗行业资讯及关联度/GenDx 23年财报分析.md",
+    "系统管理/Image图片存储/Pasted image 20231127201444.png",
+    "系统管理/Image图片存储/Pasted image 20231127201220.png",
+    "格致·恋爱的苏格拉底/包豪斯Bauhaus.png",
+    "格致·恋爱的苏格拉底/未命名",
     "系统管理/Image图片存储/Pasted image 20231127201048.png",
-    "手握17亿，裁员10%人.md",
     "格致·恋爱的苏格拉底/Pasted image 20210728200902.png",
     "系统管理/Image图片存储/Pasted image 20231127200949.png",
     "系统管理/标签系统管理.md",
-    "医疗行业资讯及关联度/GenDx 23年财报分析.md",
     "系统管理/Image图片存储/Pasted image 20231127193420.png",
     "格致·恋爱的苏格拉底/Pasted image 20210530203924.png",
     "系统管理",
-    "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
     "系统管理/Markdown 基本语法/許可證與附加服務/退款政策.md",
     "系统管理/Markdown 基本语法/許可證與附加服務/無限制捐贈.md",
     "系统管理/Markdown 基本语法/許可證與附加服務/商用許可證.md",
@@ -192,19 +187,12 @@
     "系统管理/Markdown 基本语法/高級用法/YAML front matter.md",
     "系统管理/Markdown 基本语法/高級用法/Obsidian 如何儲存數據.md",
     "系统管理/Markdown 基本语法/高級用法",
-    "系统管理/Markdown 基本语法/用户界面/工作区/面板/面板佈局.md",
-    "系统管理/Markdown 基本语法/用户界面/工作区/面板/關聯面板.md",
     "系统管理/Markdown 基本语法/用户界面/工作区/面板",
     "系统管理/Markdown 基本语法/用户界面/工作区",
     "系统管理/Markdown 基本语法/用户界面",
     "系统管理/Markdown 基本语法/外掛",
     "系统管理/Markdown 基本语法/使用指南",
     "系统管理/Image图片存储/Pasted image 20231127191352.png",
-    "系统管理/Image图片存储/Pasted image 20231127191045.png",
-    "系统管理/Image图片存储/Pasted image 20231127190754.png",
-    "系统管理/Image图片存储/GeneDx公布2023Q3财报.png",
-    "系统管理/Image图片存储/发财报后股市.png",
-    "哲学",
     "医疗行业资讯及关联度/德国企业 BioNTech.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
