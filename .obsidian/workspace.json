@@ -4,34 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f00d1dac4973c3",
+        "id": "06b1ab12f5275150",
         "type": "tabs",
         "children": [
           {
-            "id": "c900d03d938e9d09",
+            "id": "53f419d1fc093674",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bio tec/BioNTech创始人宣传癌症疫苗将于2030年前问世！.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "addb2e408114e073",
+            "id": "ccce2def36adeb0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bio tec/疫情都过去了，BioNTech盈利暴跌但还是很赚钱，那么今后呢.md",
+                "file": "标签系统管理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#一级标题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,11 +74,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bio tec/BioNTech创始人宣传癌症疫苗将于2030年前问世！.md",
+                "file": "标签系统管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bio tec/BioNTech创始人宣传癌症疫苗将于2030年前问世！.md"
+                "file": "标签系统管理.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             }
           },
           {
-            "id": "840dbae48ebc1625",
+            "id": "3a9f851e8bbc7212",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -142,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +156,17 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "b1056b621cb081c4",
+  "active": "ccce2def36adeb0e",
   "lastOpenFiles": [
+    "标签系统管理.md",
+    "Bio tec/疫情都过去了，BioNTech盈利暴跌但还是很赚钱，那么今后呢.md",
+    "Bio tec/BioNTech创始人宣传癌症疫苗将于2030年前问世！.md",
+    "哲学",
     "github",
     "主动推送脚本.bat",
     "主动推送脚本.txt",
     "新建文本文档.txt",
-    "Bio tec/疫情都过去了，BioNTech盈利暴跌但还是很赚钱，那么今后呢.md",
     "Bio tec/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md",
-    "Bio tec/BioNTech创始人宣传癌症疫苗将于2030年前问世！.md",
     "Bio tec/德国企业 BioNTech.canvas",
     "格致·恋爱的苏格拉底/Pasted image 20210622211707.png",
     "格致·恋爱的苏格拉底/Pasted image 20210531214703.png",
@@ -203,9 +205,7 @@
     "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/碳/碳.md",
     "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/02柠檬酸；枸橼酸",
     "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/04化学物质/02酸/01酸",
-    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/磷",
-    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/02支持库/02化学/01无机化学/03各种元素/02非金属元素/碳",
     "万国·西班牙语/西班牙语字母发音.png",
-    "哲学·美学/田晓菲：《秋水堂论金瓶梅》.png"
+    "哲学/哲学·美学/田晓菲：《秋水堂论金瓶梅》.png"
   ]
 }

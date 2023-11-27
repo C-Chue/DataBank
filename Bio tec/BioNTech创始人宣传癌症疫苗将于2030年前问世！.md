@@ -57,15 +57,7 @@ https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/biontech-labor-von-
 
 在BNT211试验中，CAR-T细胞疗法用于对抗较大的肿瘤，即从患者体内取出T细胞，给予受体，使其增殖，然后通过输液输回患者体内。额外的mRNA疫苗接种可使CAR-T细胞在体内再次增殖。这种方法有可能为免疫系统提供一支专门的战斗部队，以有针对性的方式找到并摧毁肿瘤。
 
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/7qd4kAgKOIsjxJNcEKkaNl8BhWuGptassvNgbU0oySL99ABquYcnTt0ProMljVIsFLtAl3hWHQziaYEenVOEcsA/640?wxfrom=5&wx_lazy=1&wx_co=1)
-
-  
-
 另一个希望的来源是ADCs——一种精确化疗。
-
-  
 
 ADCs是一种运输化疗药物的抗体。它们在血液中循环并到达肿瘤，在那里对接并以靶向方式释放化疗药物。最特别的是，这种疗法能使相当一部分研究参与者的肿瘤迅速缩小。一旦肿瘤缩小，免疫疗法就可以用来治疗剩余的癌细胞。未来的战略是将这些不同的方法结合起来进行治疗。
 
