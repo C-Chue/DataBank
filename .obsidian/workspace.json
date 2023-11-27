@@ -78,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -160,14 +158,16 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "3a9f851e8bbc7212",
+  "active": "d85b45ac13cc03f1",
   "lastOpenFiles": [
+    "系统管理/Image图片存储/Pasted image 20231127201048.png",
+    "手握17亿，裁员10%人.md",
+    "格致·恋爱的苏格拉底/Pasted image 20210728200902.png",
+    "系统管理/Image图片存储/Pasted image 20231127200949.png",
     "系统管理/标签系统管理.md",
     "医疗行业资讯及关联度/GenDx 23年财报分析.md",
-    "手握17亿，裁员10%人.md",
     "系统管理/Image图片存储/Pasted image 20231127193420.png",
     "格致·恋爱的苏格拉底/Pasted image 20210530203924.png",
-    "格致·恋爱的苏格拉底/Pasted image 20210728200902.png",
     "系统管理",
     "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
     "系统管理/Markdown 基本语法/許可證與附加服務/退款政策.md",
@@ -204,8 +204,6 @@
     "系统管理/Image图片存储/Pasted image 20231127190754.png",
     "系统管理/Image图片存储/GeneDx公布2023Q3财报.png",
     "系统管理/Image图片存储/发财报后股市.png",
-    "格致·恋爱的苏格拉底/财务数据.png",
-    "系统管理/Image图片存储/环比和趋势.png",
     "哲学",
     "医疗行业资讯及关联度/德国企业 BioNTech.canvas",
     "未命名.canvas",
