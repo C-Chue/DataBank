@@ -11,7 +11,9 @@ GeneDx（原Sema4）是一家很有意思的公司，主要是从事遗传疾病
 不逼自己一把，不知道能亏成什么样对吧？
 
 掐指一算，这个时间也过去一年多了，GeneDx到底干的如何呢？
-  ![[GeneDx公布2023Q3财报(2023-10-31公布)]]
+  ![[GeneDx公布2023Q3财报(2023-10-31公布).png]]
+  
+  
 2023年10月30日，GeneDx公布2023Q3财报。
 
 这份公告，标题有很多信息，但是我要跟大家分享两个细节。
@@ -29,7 +31,7 @@ GeneDx（原Sema4）是一家很有意思的公司，主要是从事遗传疾病
 
 不过，**这也算是传统艺能了。**
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/icugQvAnqxTrhJCicibW9lOoY6MfibicX4sKyPmdnzyRK7DhYMtaOORBXCiaEibwtKsK2Pcia456AhiaXvqnM8cVAMQYTjg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+![[发财报后股市.png]]
 
 同样的，传统艺能还有发财报就跳水。
 
@@ -45,22 +47,9 @@ GeneDx（原Sema4）是一家很有意思的公司，主要是从事遗传疾病
 
 但是，GeneDx真的就那么糟糕么？
 
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Op7Y2S0HyKx4Sibx9mxsrz68yfgLOMCxU05FFBGZtaHqGlp9uPhdwKhs0vLnxgibBpLrwfGhQVWpIHdjxlfhDyLg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
 冤枉啊
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/yRDp2K3ZBpKOicaBvhSTPZYqTVq8ku50NMtfAqkWhJw2cyMfYEhzIZHlVGLH0Wl2tQ8usSOv6xbZxBiabe1XiaLhA/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
-  
-
-  
-
-  
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/icugQvAnqxTrhJCicibW9lOoY6MfibicX4sKyEiaoaLTCnE8sqgbyScJNWupY7JVy598yQDJsfpdIsSCwNzxz1Pau04A/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![[财务数据.png]]
 我们先来看财务数据，**2023Q3公司营收5330.3万美元，去年同期8323.4万美元，同比下滑36%**。
 
 先别慌，去年的8323.4万美元是因为当时保留了一堆乱七八糟的业务。
@@ -70,7 +59,6 @@ GeneDx（原Sema4）是一家很有意思的公司，主要是从事遗传疾病
 实际上，GeneDx的经营状况是在改善的。
 
 两个理由：
-
 **第一，营收下降毛利反而上升。**
 
 可以很明显看到在营收下降36%的前提下，公司的毛利反而大幅度增长86%。
@@ -83,8 +71,7 @@ GeneDx（原Sema4）是一家很有意思的公司，主要是从事遗传疾病
 
 特别是裁员后，公司的管理和销售费用都下降了50%以上。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/icugQvAnqxTrhJCicibW9lOoY6MfibicX4sKyEwMXHfA4ZD95pm7IUg1ze4RIfvibKxl6kXBGIaBibKYvAmvHLVc7AZYA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![[环比和趋势.png]]
 所以，**我们要看环比和趋势**。
 
 今年**前三个季度公司的营收稳步增长，核心诊断检测业务在Q3取得了11.4%的增长。**
@@ -97,19 +84,7 @@ GeneDx（原Sema4）是一家很有意思的公司，主要是从事遗传疾病
 
 GeneDx冤枉啊，比窦娥还冤。
 
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Op7Y2S0HyKx4Sibx9mxsrz68yfgLOMCxU05FFBGZtaHqGlp9uPhdwKhs0vLnxgibBpLrwfGhQVWpIHdjxlfhDyLg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-“大道”已成
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/yRDp2K3ZBpKOicaBvhSTPZYqTVq8ku50NMtfAqkWhJw2cyMfYEhzIZHlVGLH0Wl2tQ8usSOv6xbZxBiabe1XiaLhA/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
-  
-
-  
-
-  
+- 大道已成
 
 GeneDx不仅冤枉，还有了很大的进步，甚至我们可以说其转型大道基本已成。
 
@@ -125,8 +100,8 @@ GeneDx不仅冤枉，还有了很大的进步，甚至我们可以说其转型�
 
 还记得刚才聊的公司整个业务的毛利率多少么？48%！
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/icugQvAnqxTrhJCicibW9lOoY6MfibicX4sKyuNoPI82VCNpzicw5BIJqJMibN6XfzJSFic3lT2KU2UnGtzNZ4XEOcfEtA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
+![[Pasted image 20231127190754.png]]
 把样本量还原到业绩上，就更明显了。
 
 **WES/WGS的占比已经达到公司业务量的67.5%，成为妥妥的顶流。**
@@ -141,25 +116,12 @@ GeneDx不仅冤枉，还有了很大的进步，甚至我们可以说其转型�
 
 **这个发展大道趋势已成，能不能守住这泼天的富贵就看管理层的本事了。**
 
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Op7Y2S0HyKx4Sibx9mxsrz68yfgLOMCxU05FFBGZtaHqGlp9uPhdwKhs0vLnxgibBpLrwfGhQVWpIHdjxlfhDyLg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
 最后
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/yRDp2K3ZBpKOicaBvhSTPZYqTVq8ku50NMtfAqkWhJw2cyMfYEhzIZHlVGLH0Wl2tQ8usSOv6xbZxBiabe1XiaLhA/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
-  
-
-  
-
-  
-
 GeneDx选择WES/WGS作为业务主要切入点其实有很多有意思的角度可以考虑。
 
 从业务端，可以节约不必要的人力、研发开支。
 
-从技术端，WES/WGS技术成熟，且在Illumina/MGI等公司的“战争”之下测序成本越来越低。
+从技术端，WES/WGS技术成熟，且在 #测序公司/Illumina  / #测序公司/MGI“战争”之下测序成本越来越低。
 
 就连Pacbio也高举成本大旗，把自己的Revio主要卖点加上了个成本降低。
 
@@ -171,8 +133,7 @@ GeneDx选择WES/WGS作为业务主要切入点其实有很多有意思的角度�
 
 所以，回到开头GeneDx的成本削减计划砍人了么？
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/icugQvAnqxTrhJCicibW9lOoY6MfibicX4sKym3D2xVyOg20icozvSaw86gIAaD6k2O2bMvcqiboKNrKU07WeEXEIVwBA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![[Pasted image 20231127191045.png]]
 是的，大概砍掉了10%，
 
 根据GeneDx财报，公司在2023年1月20日拥有1100名雇员。
