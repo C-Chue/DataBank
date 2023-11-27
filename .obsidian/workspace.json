@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "feb04fc9907b890d",
+        "id": "192067cd2b17c4f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c212f27689db5e0b",
+            "id": "96b6b819899048c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
+                "file": "医疗行业资讯及关联度/GenDx 23年财报分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "266b9927d5e27f00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e80d22537082a748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一边赚1.9亿，一边亏损6130万.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0047f3a0b70e76dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "医疗行业资讯及关联度/风止意难平，也许是注定的谢幕.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -85,14 +119,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
+                "file": "一边赚1.9亿，一边亏损6130万.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md"
+                "file": "一边赚1.9亿，一边亏损6130万.md"
               }
             }
           },
@@ -126,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -136,64 +170,64 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
       "daily-notes:開啟今天的每日筆記": false,
       "canvas:建立新畫布": false,
       "command-palette:開啟命令面板": false,
       "markdown-importer:開啟 Markdown 格式轉換器": false,
       "zk-prefixer:建立新唯一筆記": false,
-      "random-note:開始漫遊筆記": false
+      "random-note:開始漫遊筆記": false,
+      "graph:查看關聯圖": false
     }
   },
-  "active": "c212f27689db5e0b",
+  "active": "e80d22537082a748",
   "lastOpenFiles": [
-    "[1].md",
-    "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
-    "系统管理/Markdown 基本语法/外掛/Markdown 格式轉換器.md",
-    "系统管理/Markdown 基本语法/外掛/ZK 卡片.md",
-    "医疗行业资讯及关联度/手握17亿，裁员10%人.md",
-    "系统管理/Image图片存储/Pasted image 20231127202203.png",
-    "医疗行业资讯及关联度/GenDx 23年财报分析.md",
-    "系统管理/Image图片存储/Pasted image 20231127201444.png",
-    "系统管理/Image图片存储/Pasted image 20231127201220.png",
-    "格致·恋爱的苏格拉底/包豪斯Bauhaus.png",
-    "格致·恋爱的苏格拉底/未命名",
-    "系统管理/Image图片存储/Pasted image 20231127201048.png",
-    "格致·恋爱的苏格拉底/Pasted image 20210728200902.png",
-    "系统管理/Image图片存储/Pasted image 20231127200949.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231801.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231746.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231714.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231649.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231633.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231613.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231554.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231529.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231513.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231500.png",
+    "一边赚1.9亿，一边亏损6130万.md",
+    "医疗行业资讯及关联度/风止意难平，也许是注定的谢幕.md",
+    "格致·恋爱的苏格拉底/Pasted image 20231127231159.png",
     "系统管理/标签系统管理.md",
-    "系统管理/Image图片存储/Pasted image 20231127193420.png",
-    "格致·恋爱的苏格拉底/Pasted image 20210530203924.png",
-    "系统管理",
-    "系统管理/Markdown 基本语法/許可證與附加服務/退款政策.md",
-    "系统管理/Markdown 基本语法/許可證與附加服務/無限制捐贈.md",
+    "医疗行业资讯及关联度/GenDx 23年财报分析.md",
+    "医疗行业资讯及关联度/手握17亿，裁员10%人.md",
+    "医疗行业资讯及关联度/德国企业.canvas",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/00本资料基本信息/主页及目录/02各科分类目录/各科分目录/系统解剖学.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/01主库/01解剖部位/020半月板/menisc.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/01主库/01解剖部位/155骨盆；盆腔/pelv.md",
+    "医疗行业资讯及关联度/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md",
+    "系统管理/Markdown 基本语法/高級用法/內部版本.md",
+    "系统管理/Markdown 基本语法/高級用法/第三方外掛.md",
+    "系统管理/Markdown 基本语法/高級用法/幫助開發.md",
+    "系统管理/Markdown 基本语法/高級用法/Obsidian 如何儲存數據.md",
     "系统管理/Markdown 基本语法/許可證與附加服務/商用許可證.md",
     "系统管理/Markdown 基本语法/許可證與附加服務/Obsidian 發佈服務.md",
     "系统管理/Markdown 基本语法/許可證與附加服務/Obsidian 同步服務.md",
+    "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
+    "系统管理/Markdown 基本语法/基本语法.md",
+    "[1].md",
+    "系统管理/Markdown 基本语法/外掛/Markdown 格式轉換器.md",
+    "系统管理/Markdown 基本语法/外掛/ZK 卡片.md",
+    "格致·恋爱的苏格拉底/未命名",
+    "系统管理",
+    "系统管理/Markdown 基本语法/許可證與附加服務/退款政策.md",
+    "系统管理/Markdown 基本语法/許可證與附加服務/無限制捐贈.md",
     "系统管理/Markdown 基本语法/許可證與附加服務/Catalyst 個人許可證.md",
     "系统管理/Markdown 基本语法/許可證與附加服務",
     "系统管理/Markdown 基本语法/个性化定制/自定義快捷鍵.md",
-    "系统管理/Markdown 基本语法/个性化定制/外觀.md",
     "系统管理/Markdown 基本语法/个性化定制",
-    "系统管理/Markdown 基本语法/高級用法/自定義 CSS.md",
-    "系统管理/Markdown 基本语法/高級用法/網頁安全.md",
-    "系统管理/Markdown 基本语法/高級用法/第三方外掛.md",
-    "系统管理/Markdown 基本语法/高級用法/支援格式.md",
-    "系统管理/Markdown 基本语法/高級用法/拖放.md",
-    "系统管理/Markdown 基本语法/高級用法/幫助開發.md",
-    "系统管理/Markdown 基本语法/高級用法/刪除檔案.md",
-    "系统管理/Markdown 基本语法/高級用法/內部版本.md",
-    "系统管理/Markdown 基本语法/高級用法/使用 obsidian URI.md",
-    "系统管理/Markdown 基本语法/高級用法/YAML front matter.md",
-    "系统管理/Markdown 基本语法/高級用法/Obsidian 如何儲存數據.md",
     "系统管理/Markdown 基本语法/高級用法",
     "系统管理/Markdown 基本语法/用户界面/工作区/面板",
     "系统管理/Markdown 基本语法/用户界面/工作区",
     "系统管理/Markdown 基本语法/用户界面",
     "系统管理/Markdown 基本语法/外掛",
     "系统管理/Markdown 基本语法/使用指南",
-    "系统管理/Image图片存储/Pasted image 20231127191352.png",
-    "医疗行业资讯及关联度/德国企业 BioNTech.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

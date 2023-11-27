@@ -112,6 +112,7 @@ location /my-notes {
 
 在 Apache 的 `.htaccess`，你可以如下設定：
 
+
 （注意：mod_rewrite 必須開啟，並且你需要配置 [SSLProxyEngine](https://stackoverflow.com/questions/40938148/reverse-proxy-for-external-url-apache))
 
 ```htaccess

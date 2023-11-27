@@ -145,3 +145,12 @@ GeneDx选择WES/WGS作为业务主要切入点其实有很多有意思的角度�
 只是，这增长从哪里来？
 
 群体跟个体，在这里出现了分歧。
+
+
+  
+
+```
+注1：https://ir.genedx.com/news-releases/news-release-details/genedx-reports-third-quarter-2023-financial-results-and-business
+注2：https://ir.genedx.com/static-files/95bd31b3-4f01-4187-a14a-c6e8503d1f27
+注3：https://ir.genedx.com/static-files/b4544845-9495-4208-b6a0-31b5703b7202
+```
