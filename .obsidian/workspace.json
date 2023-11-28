@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
+                "file": "2023-11-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
+                "file": "2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "系统管理/Markdown 基本语法/使用指南/格式化筆記.md"
+                "file": "2023-11-20.md"
               }
             }
           },
@@ -160,29 +161,31 @@
   },
   "active": "901ea6c39fd08ee6",
   "lastOpenFiles": [
-    "Obsidian.md",
+    "格致·恋爱的苏格拉底/Pasted image 20231128225250.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128225233.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224712.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224655.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224648.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224621.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224609.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224604.png",
+    "医疗行业资讯及关联度/2023-11-21.md",
+    "2023-11-20.md",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224103.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224033.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231128224015.png",
     "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
+    "医疗行业资讯及关联度/2023-11-22.md",
+    "Obsidian.md",
     "由此開始.md",
     "医疗行业资讯及关联度/一边赚1.9亿，一边亏损6130万.md",
     "言尽意论.md",
-    "医疗行业资讯及关联度/2023-11-21.md",
     "未命名.md",
     "幻燈片示例.md",
-    "格致·恋爱的苏格拉底/Step2：梦境怀疑2.png",
     "[1].md",
-    "格致·恋爱的苏格拉底/Step2：梦境怀疑1.png",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
-    "格致·恋爱的苏格拉底/Pasted image 20210728200902.png",
-    "系统管理/Image图片存储/Pasted image 20231128221214.png",
-    "系统管理/Image图片存储/Pasted image 20231128221230.png",
-    "系统管理/Image图片存储/Pasted image 20231128221544.png",
-    "系统管理/Image图片存储/Pasted image 20231128221247.png",
-    "系统管理/Image图片存储/Pasted image 20231128221059.png",
-    "系统管理/Image图片存储/Pasted image 20231128221000.png",
-    "系统管理/Image图片存储/Pasted image 20231128221128.png",
     "PEA（Proximity Extension Assay）.md",
     "系统管理/标签系统管理.md",
-    "医疗行业资讯及关联度/2023-11-22.md",
     "医疗行业资讯及关联度/2023-11-28.md",
     "NUcleic acid Linked Immuno-Sandwich Assay（核酸连接的免疫-夹心测定）.md",
     "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/00本资料基本信息/主页及目录/02各科分类目录/各科分目录/妇产科学.md",
@@ -195,8 +198,6 @@
     "医疗行业资讯及关联度/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md",
     "GeneDx公布2023Q3财报(2023-10-31公布).md",
     "医疗行业资讯及关联度/德国企业.canvas",
-    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/00本资料基本信息/主页及目录/02各科分类目录/各科分目录/系统解剖学.md",
-    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/01主库/01解剖部位/020半月板/menisc.md",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
     "系统管理/Markdown 基本语法/許可證與附加服務",
