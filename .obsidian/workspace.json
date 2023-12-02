@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Gene欧式copy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,12 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-20.md",
+                "file": "系统管理/标签系统管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-20.md"
+                "file": "系统管理/标签系统管理.md"
               }
             }
           },
@@ -159,8 +158,10 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "901ea6c39fd08ee6",
+  "active": "7949f479e8faf10c",
   "lastOpenFiles": [
+    "2023-11-20.md",
+    "系统管理/标签系统管理.md",
     "格致·恋爱的苏格拉底/Pasted image 20231128225250.png",
     "格致·恋爱的苏格拉底/Pasted image 20231128225233.png",
     "格致·恋爱的苏格拉底/Pasted image 20231128224712.png",
@@ -170,10 +171,8 @@
     "格致·恋爱的苏格拉底/Pasted image 20231128224609.png",
     "格致·恋爱的苏格拉底/Pasted image 20231128224604.png",
     "医疗行业资讯及关联度/2023-11-21.md",
-    "2023-11-20.md",
     "格致·恋爱的苏格拉底/Pasted image 20231128224103.png",
     "格致·恋爱的苏格拉底/Pasted image 20231128224033.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231128224015.png",
     "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
     "医疗行业资讯及关联度/2023-11-22.md",
     "Obsidian.md",
@@ -185,7 +184,6 @@
     "[1].md",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
     "PEA（Proximity Extension Assay）.md",
-    "系统管理/标签系统管理.md",
     "医疗行业资讯及关联度/2023-11-28.md",
     "NUcleic acid Linked Immuno-Sandwich Assay（核酸连接的免疫-夹心测定）.md",
     "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/00本资料基本信息/主页及目录/02各科分类目录/各科分目录/妇产科学.md",
