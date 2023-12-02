@@ -28,19 +28,27 @@
             }
           },
           {
-            "id": "15eb00313dc10c03",
+            "id": "6b3961203f1f2b27",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9bae53d7a1c136d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENDPOINTS NEWS.md",
+                "file": "燃石的冰与火之歌.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENDPOINTS NEWS.md",
+                "file": "燃石的冰与火之歌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENDPOINTS NEWS.md"
+                "file": "燃石的冰与火之歌.md"
               }
             }
           },
@@ -167,18 +175,30 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "15eb00313dc10c03",
+  "active": "a9bae53d7a1c136d",
   "lastOpenFiles": [
+    "格致·恋爱的苏格拉底/Pasted image 20231202163931.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163916.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163902.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163850.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163834.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163753.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163722.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163711.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163658.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163609.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202163539.png",
+    "燃石的冰与火之歌.md",
     "ENDPOINTS NEWS.md",
+    "医疗行业资讯及关联度/2023-12-02.md",
+    "Illumina, Inc. (NASDAQ ILMN) Piper Sandler 35th Annual Healthcare Conference.md",
     "系统管理/标签系统管理.md",
     "系统管理/Markdown 基本语法/基本语法.md",
     "医疗行业资讯及关联度/2023-11-28.md",
     "系统管理/Markdown 基本语法/使用指南/塊鏈接與塊引用.md",
     "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
     "系统管理/Markdown 基本语法/外掛/反向鏈接.md",
-    "医疗行业资讯及关联度/2023-12-02.md",
     "医疗行业资讯及关联度/手握17亿，裁员10%人.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231202161523.png",
     "医疗行业资讯及关联度/风止意难平，也许是注定的谢幕.md",
     "医疗行业资讯及关联度/2023-11-22.md",
     "医疗行业资讯及关联度/GenDx 23年财报分析.md",
@@ -188,23 +208,11 @@
     "系统管理/Markdown 基本语法/用户界面/工作区/面板/面板佈局.md",
     "系统管理/Markdown 基本语法/用户界面/工作区/面板/同步面板.md",
     "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231202152937.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202152906.png",
     "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
     "医疗行业资讯及关联度/NUcleic acid Linked Immuno-Sandwich Assay（核酸连接的免疫-夹心测定）.md",
     "由此開始.md",
     "医疗行业资讯及关联度/2023-11-20.md",
     "燎原·西方文明简史/第五课 中世纪早期 目录.md",
-    "哲学/哲学·中国哲学史/C2 嵇康.md",
-    "系统管理/Markdown 基本语法/外掛/核心外掛.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231128225250.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231128225233.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231128224712.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231128224655.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231128224648.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231128224621.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231128224609.png",
-    "医疗行业资讯及关联度/2023-11-21.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",

@@ -118,7 +118,10 @@
     "Company/Vertex": 30,
     "CRISPRTherapeutics联合开发的GASGEVY（exa-cel）基因疗法产品。": 70,
     "CRISPRTherapeutics": 71,
-    "GASGEVY（exa-cel）": 72
+    "GASGEVY（exa-cel）": 72,
+    "Company/BurningRock": 31,
+    "Company/BurningRock燃石": 32,
+    "肿瘤": 73
   },
   "_version": 2
 }
