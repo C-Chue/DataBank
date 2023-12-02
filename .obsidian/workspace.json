@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系统管理/标签系统管理.md",
+                "file": "医疗行业资讯及关联度/一边赚1.9亿，一边亏损6130万.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "901ea6c39fd08ee6",
+            "id": "9ed5a5e69ca6ace8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
+                "file": "系统管理/Markdown 基本语法/外掛/標籤面板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18da3a40669b2c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "系统管理/标签系统管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#测序公司",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,12 +90,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
+                "file": "系统管理/Markdown 基本语法/外掛/標籤面板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md"
+                "file": "系统管理/Markdown 基本语法/外掛/標籤面板.md"
               }
             }
           },
@@ -140,12 +152,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +170,23 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "901ea6c39fd08ee6",
+  "active": "9ed5a5e69ca6ace8",
   "lastOpenFiles": [
+    "系统管理/标签系统管理.md",
+    "医疗行业资讯及关联度/一边赚1.9亿，一边亏损6130万.md",
+    "系统管理/Markdown 基本语法/外掛/標籤面板.md",
+    "系统管理/Markdown 基本语法/使用指南/標籤的使用.md",
+    "系统管理/Markdown 基本语法/用户界面/工作区/面板/面板佈局.md",
+    "系统管理/Markdown 基本语法/用户界面/工作区/面板/同步面板.md",
+    "系统管理/Markdown 基本语法/基本语法.md",
+    "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
+    "医疗行业资讯及关联度/2023-12-02.md",
+    "格致·恋爱的苏格拉底/Pasted image 20231202152937.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231202152906.png",
+    "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
     "医疗行业资讯及关联度/NUcleic acid Linked Immuno-Sandwich Assay（核酸连接的免疫-夹心测定）.md",
     "由此開始.md",
     "医疗行业资讯及关联度/2023-11-20.md",
-    "系统管理/标签系统管理.md",
     "燎原·西方文明简史/第五课 中世纪早期 目录.md",
     "哲学/哲学·中国哲学史/C2 嵇康.md",
     "系统管理/Markdown 基本语法/外掛/核心外掛.md",
@@ -177,26 +199,15 @@
     "格致·恋爱的苏格拉底/Pasted image 20231128224609.png",
     "格致·恋爱的苏格拉底/Pasted image 20231128224604.png",
     "医疗行业资讯及关联度/2023-11-21.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231128224103.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231128224033.png",
     "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
     "医疗行业资讯及关联度/2023-11-22.md",
     "Obsidian.md",
-    "医疗行业资讯及关联度/一边赚1.9亿，一边亏损6130万.md",
     "言尽意论.md",
     "未命名.md",
     "幻燈片示例.md",
     "[1].md",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
-    "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
     "医疗行业资讯及关联度/2023-11-28.md",
-    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/00本资料基本信息/主页及目录/02各科分类目录/各科分目录/妇产科学.md",
-    "燎原·西方文明简史/四帝共治.md",
-    "医疗行业资讯及关联度/GenDx 23年财报分析.md",
-    "医疗行业资讯及关联度/BioNTech创始人宣传癌症疫苗将于2030年前问世！.md",
-    "医疗行业资讯及关联度/疫情都过去了，BioNTech盈利暴跌但还是很赚钱，那么今后呢.md",
-    "医疗行业资讯及关联度/手握17亿，裁员10%人.md",
-    "医疗行业资讯及关联度/风止意难平，也许是注定的谢幕.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
