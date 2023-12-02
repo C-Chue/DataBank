@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e6799da93a5027b3",
+        "id": "36ea4c5d97da92fb",
         "type": "tabs",
         "children": [
           {
-            "id": "18da3a40669b2c01",
+            "id": "003471e61e55b24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系统管理/标签系统管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ab699f3ab9da508",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6b3961203f1f2b27",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a9bae53d7a1c136d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "燃石的冰与火之歌.md",
+                "file": "2023-09-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "燃石的冰与火之歌.md",
+                "file": "2023-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "燃石的冰与火之歌.md"
+                "file": "2023-09-15.md"
               }
             }
           },
@@ -156,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,24 +146,27 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "a9bae53d7a1c136d",
+  "active": "003471e61e55b24f",
   "lastOpenFiles": [
-    "格致·恋爱的苏格拉底/Pasted image 20231202163931.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163916.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163902.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163850.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163834.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163753.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163722.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163711.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163658.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163609.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231202163539.png",
-    "燃石的冰与火之歌.md",
+    "格致·恋爱的苏格拉底/Pasted image 20231202170713.png",
+    "2023-09-15.md",
+    "医疗行业资讯及关联度/2023-09-22.md",
+    "格致·恋爱的苏格拉底/Pasted image 20231202170424.png",
+    "格致·恋爱的苏格拉底/Pasted image 20210531214645.png",
+    "格致·恋爱的苏格拉底/Pasted image 20210622211707.png",
+    "格致·恋爱的苏格拉底/Pasted image 20210707191932.png",
+    "格致·恋爱的苏格拉底/Pasted image 20210728200902.png",
+    "系统管理/Image图片存储/Pasted image 20231128223947.png",
+    "系统管理/Image图片存储/Pasted image 20231128224009.png",
+    "系统管理/Image图片存储/Pasted image 20231128223901.png",
+    "系统管理/Image图片存储/Pasted image 20231128223934.png",
+    "系统管理/Image图片存储/Pasted image 20231128223924.png",
+    "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
+    "系统管理/标签系统管理.md",
+    "医疗行业资讯及关联度/燃石的冰与火之歌.md",
     "ENDPOINTS NEWS.md",
     "医疗行业资讯及关联度/2023-12-02.md",
-    "Illumina, Inc. (NASDAQ ILMN) Piper Sandler 35th Annual Healthcare Conference.md",
-    "系统管理/标签系统管理.md",
+    "医疗行业资讯及关联度/Illumina, Inc. (NASDAQ ILMN) Piper Sandler 35th Annual Healthcare Conference.md",
     "系统管理/Markdown 基本语法/基本语法.md",
     "医疗行业资讯及关联度/2023-11-28.md",
     "系统管理/Markdown 基本语法/使用指南/塊鏈接與塊引用.md",
@@ -210,9 +184,6 @@
     "系统管理/Markdown 基本语法/论文及文献Markdown语言写法.md",
     "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
     "医疗行业资讯及关联度/NUcleic acid Linked Immuno-Sandwich Assay（核酸连接的免疫-夹心测定）.md",
-    "由此開始.md",
-    "医疗行业资讯及关联度/2023-11-20.md",
-    "燎原·西方文明简史/第五课 中世纪早期 目录.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
