@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-20.md",
+                "file": "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Gene欧式copy",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,12 +78,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "系统管理/标签系统管理.md",
+                "file": "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "系统管理/标签系统管理.md"
+                "file": "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,10 +159,15 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "7949f479e8faf10c",
+  "active": "901ea6c39fd08ee6",
   "lastOpenFiles": [
-    "2023-11-20.md",
+    "医疗行业资讯及关联度/NUcleic acid Linked Immuno-Sandwich Assay（核酸连接的免疫-夹心测定）.md",
+    "由此開始.md",
+    "医疗行业资讯及关联度/2023-11-20.md",
     "系统管理/标签系统管理.md",
+    "燎原·西方文明简史/第五课 中世纪早期 目录.md",
+    "哲学/哲学·中国哲学史/C2 嵇康.md",
+    "系统管理/Markdown 基本语法/外掛/核心外掛.md",
     "格致·恋爱的苏格拉底/Pasted image 20231128225250.png",
     "格致·恋爱的苏格拉底/Pasted image 20231128225233.png",
     "格致·恋爱的苏格拉底/Pasted image 20231128224712.png",
@@ -176,16 +182,14 @@
     "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
     "医疗行业资讯及关联度/2023-11-22.md",
     "Obsidian.md",
-    "由此開始.md",
     "医疗行业资讯及关联度/一边赚1.9亿，一边亏损6130万.md",
     "言尽意论.md",
     "未命名.md",
     "幻燈片示例.md",
     "[1].md",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
-    "PEA（Proximity Extension Assay）.md",
+    "医疗行业资讯及关联度/PEA（Proximity Extension Assay）.md",
     "医疗行业资讯及关联度/2023-11-28.md",
-    "NUcleic acid Linked Immuno-Sandwich Assay（核酸连接的免疫-夹心测定）.md",
     "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/00本资料基本信息/主页及目录/02各科分类目录/各科分目录/妇产科学.md",
     "燎原·西方文明简史/四帝共治.md",
     "医疗行业资讯及关联度/GenDx 23年财报分析.md",
@@ -193,8 +197,6 @@
     "医疗行业资讯及关联度/疫情都过去了，BioNTech盈利暴跌但还是很赚钱，那么今后呢.md",
     "医疗行业资讯及关联度/手握17亿，裁员10%人.md",
     "医疗行业资讯及关联度/风止意难平，也许是注定的谢幕.md",
-    "医疗行业资讯及关联度/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md",
-    "GeneDx公布2023Q3财报(2023-10-31公布).md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
