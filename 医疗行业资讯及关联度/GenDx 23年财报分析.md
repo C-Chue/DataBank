@@ -1,4 +1,4 @@
-#GeneDx #Sema4 #财报 #遗传检测 #罕见病 
+#Company/GeneDx #Company/Sema4 #财报 #遗传检测 #罕见病 
 
 GeneDx（原Sema4）是一家很有意思的公司，主要是从事遗传疾病检测，原先是做携带者筛查起家。
 
