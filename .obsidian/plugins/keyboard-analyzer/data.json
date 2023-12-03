@@ -8,5 +8,7 @@
     "DisplayWOhotkeys": false,
     "DisplayIDs": true
   },
-  "featuredCommandIDs": []
+  "featuredCommandIDs": [
+    "markdown:toggle-preview"
+  ]
 }

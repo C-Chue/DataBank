@@ -28,19 +28,27 @@
             }
           },
           {
+            "id": "62668e6d07f9380f",
+            "type": "leaf",
+            "state": {
+              "type": "keyboard-shortcuts-visualization",
+              "state": {}
+            }
+          },
+          {
             "id": "9902d986ecaabf4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.彩色标签条形图.md",
+                "file": "18种特色科研图表的绘制方法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.彩色标签条形图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.彩色标签条形图.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,24 +172,25 @@
       "graph:查看關聯圖": false
     }
   },
-  "active": "9902d986ecaabf4f",
+  "active": "b113ba84e9f6e6f5",
   "lastOpenFiles": [
     "18种特色科研图表的绘制方法.md",
+    "R语言绘图配色 宝藏配色工具之cols4all.md",
+    "格致·恋爱的苏格拉底/Pasted image 20231203003711.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203003554.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203003256.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203003108.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203003051.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203003014.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203003002.png",
+    "2023-09-15.md",
+    "1.彩色标签条形图.md",
     "PCA (Principal Component Analysis) 散点图.md",
     "未命名 1.md",
     "未命名.md",
     "格致·恋爱的苏格拉底/Pasted image 20231203001144.png",
-    "1.彩色标签条形图.md",
     "格致·恋爱的苏格拉底/Pasted image 20231203001014.png",
     "格致·恋爱的苏格拉底/Pasted image 20231203000951.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203000929.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203000824.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203000752.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203000727.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203000658.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203000619.png",
-    "2023-09-15.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231203000445.png",
     "医疗行业资讯及关联度/2023-09-22.md",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
     "系统管理/标签系统管理.md",
@@ -203,8 +209,6 @@
     "医疗行业资讯及关联度/GenDx 23年财报分析.md",
     "医疗行业资讯及关联度/一边赚1.9亿，一边亏损6130万.md",
     "系统管理/Markdown 基本语法/外掛/標籤面板.md",
-    "系统管理/Markdown 基本语法/使用指南/標籤的使用.md",
-    "系统管理/Markdown 基本语法/用户界面/工作区/面板/面板佈局.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
