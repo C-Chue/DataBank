@@ -9,6 +9,7 @@
     "DisplayIDs": true
   },
   "featuredCommandIDs": [
-    "markdown:toggle-preview"
+    "markdown:toggle-preview",
+    "file-explorer:new-file-in-new-pane"
   ]
 }

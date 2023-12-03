@@ -41,14 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18种特色科研图表的绘制方法.md",
+                "file": "PCA (Principal Component Analysis) 散点图.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PCA (Principal Component Analysis) 散点图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PCA (Principal Component Analysis) 散点图.md"
+              }
             }
           },
           {
@@ -151,9 +154,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6ab5161ae9973c42",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,28 +180,30 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false,
       "zk-prefixer:建立新唯一筆記": false,
       "random-note:開始漫遊筆記": false,
-      "graph:查看關聯圖": false
+      "graph:查看關聯圖": false,
+      "chronology:Open Chronology": false
     }
   },
-  "active": "b113ba84e9f6e6f5",
+  "active": "9902d986ecaabf4f",
   "lastOpenFiles": [
+    "格致·恋爱的苏格拉底/Pasted image 20231203115106.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203115015.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203114925.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203114919.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203114857.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203114830.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203114619.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203114532.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231203114430.png",
     "18种特色科研图表的绘制方法.md",
+    "2023-09-15.md",
+    "PCA (Principal Component Analysis) 散点图.md",
     "R语言绘图配色 宝藏配色工具之cols4all.md",
     "格致·恋爱的苏格拉底/Pasted image 20231203003711.png",
     "格致·恋爱的苏格拉底/Pasted image 20231203003554.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203003256.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203003108.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203003051.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203003014.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203003002.png",
-    "2023-09-15.md",
     "1.彩色标签条形图.md",
-    "PCA (Principal Component Analysis) 散点图.md",
     "未命名 1.md",
     "未命名.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231203001144.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203001014.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203000951.png",
     "医疗行业资讯及关联度/2023-09-22.md",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
     "系统管理/标签系统管理.md",
