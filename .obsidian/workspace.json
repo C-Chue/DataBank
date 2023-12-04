@@ -20,35 +20,18 @@
             }
           },
           {
-            "id": "b113ba84e9f6e6f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "62668e6d07f9380f",
-            "type": "leaf",
-            "state": {
-              "type": "keyboard-shortcuts-visualization",
-              "state": {}
-            }
-          },
-          {
-            "id": "e33aabbd6ea6eeec",
+            "id": "ed17a473de92cc96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玫瑰图.md",
+                "file": "观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#RNAScope",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "玫瑰图.md",
+                "file": "2023-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玫瑰图.md"
+                "file": "2023-09-15.md"
               }
             }
           },
@@ -168,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +168,11 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "e33aabbd6ea6eeec",
+  "active": "b19eabe8fcac21e1",
   "lastOpenFiles": [
+    "观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
+    "2023-09-15.md",
+    "玫瑰图.md",
     "格致·恋爱的苏格拉底/Pasted image 20231203120137.png",
     "格致·恋爱的苏格拉底/Pasted image 20231203120112.png",
     "格致·恋爱的苏格拉底/Pasted image 20231203120046.png",
@@ -192,15 +180,12 @@
     "格致·恋爱的苏格拉底/Pasted image 20231203120002.png",
     "格致·恋爱的苏格拉底/Pasted image 20231203115922.png",
     "18种特色科研图表的绘制方法.md",
-    "玫瑰图.md",
     "格致·恋爱的苏格拉底/Pasted image 20231203115813.png",
     "未命名 2.md",
     "PCA (Principal Component Analysis) 散点图.md",
     "格致·恋爱的苏格拉底/Pasted image 20231203115133.png",
     "格致·恋爱的苏格拉底/Pasted image 20231203115106.png",
     "格致·恋爱的苏格拉底/Pasted image 20231203115015.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203114925.png",
-    "2023-09-15.md",
     "R语言绘图配色 宝藏配色工具之cols4all.md",
     "1.彩色标签条形图.md",
     "未命名 1.md",
