@@ -111,3 +111,25 @@ p6
 ![[Pasted image 20231203115106.png]]
 
 
+```R
+#绘制实心散点图；  
+p7 <- ggplot(dt,aes(x=PC1,y=PC2,fill=Diagnosis))+  
+  stat_centroid(aes(xend = PC1, yend = PC2, colour = Diagnosis),  
+                geom = "segment", crop_other = F,  
+                alpha=0.3,size = 1,show.legend = F)+  
+  geom_point(size=3,alpha=0.7,  
+             color="white",shape = 21,show.legend = T)+  
+  scale_color_manual(name="",  
+                     values = c("#FF9999","#c77cff"))+  
+  scale_fill_manual(name="",  
+                     values = c("#FF9999","#c77cff"))+  
+  scale_x_continuous(expand=expansion(add = c(0.7,0.7)),  
+                     limits=c(-10,5))+  
+  scale_y_continuous(expand=expansion(add = c(0.5,0.5)),  
+                     limits=c(-7.5,5))+  
+  guides(x = "axis_truncated",y = "axis_truncated")+mytheme  
+  
+p7
+```
+
+![[Pasted image 20231203115133.png]]
