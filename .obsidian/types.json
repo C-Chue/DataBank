@@ -1,0 +1,8 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "翻譯時間": "number"
+  }
+}

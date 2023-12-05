@@ -4,34 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "36ea4c5d97da92fb",
+        "id": "2c804c85eae0e8d9",
         "type": "tabs",
         "children": [
           {
-            "id": "003471e61e55b24f",
+            "id": "80209f289ef5ab12",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bab3ada6850da51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-15.md",
+                "file": "3.2 视频内容要点.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed17a473de92cc96",
+            "id": "ba52082ec5846e64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
+                "file": "3.1 Useful Prompts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-15.md",
+                "file": "3.1 Useful Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-15.md"
+                "file": "3.1 Useful Prompts.md"
               }
             }
           },
@@ -152,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,33 +175,38 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "003471e61e55b24f",
+  "active": "ba52082ec5846e64",
   "lastOpenFiles": [
-    "观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
-    "2023-09-15.md",
+    "3.2 视频内容要点.md",
+    "3.1 Useful Prompts.md",
+    "世界艺术史/观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
+    "系统管理/Image图片存储/图13  普塔与索卡尔合体图.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231204222140.png",
+    "系统管理/Image图片存储/图12  国王阿蒙荷太普一世的“一人两体”图像.png",
+    "系统管理/Image图片存储/图11-2.png",
+    "系统管理/Image图片存储/图11-1 太阳神与奥赛里斯神合体的形象.png",
+    "系统管理/Image图片存储/图10 TT5中的鱼形木乃伊.png",
+    "系统管理/Image图片存储/图9 TT335的C墓室中的“带翼女神”图像.png",
+    "系统管理/Image图片存储/图8 TT335的B墓室中的“祖先崇拜”图像.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231204222129.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231204222119.png",
+    "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
+    "医疗行业资讯及关联度/一鲸既未落万物艰难求生！肿瘤NGS的至暗时刻还远未到来.md",
+    "2023-12-04.md",
+    "世界艺术史",
     "玫瑰图.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231203120137.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203120112.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203120046.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203120028.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203120002.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203115922.png",
-    "18种特色科研图表的绘制方法.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231203115813.png",
     "未命名 2.md",
+    "未命名 1.md",
     "PCA (Principal Component Analysis) 散点图.md",
-    "格致·恋爱的苏格拉底/Pasted image 20231203115133.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203115106.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231203115015.png",
+    "ENDPOINTS NEWS.md",
+    "由此開始.md",
+    "言尽意论.md",
+    "18种特色科研图表的绘制方法.md",
     "R语言绘图配色 宝藏配色工具之cols4all.md",
     "1.彩色标签条形图.md",
-    "未命名 1.md",
-    "未命名.md",
     "医疗行业资讯及关联度/2023-09-22.md",
-    "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
     "系统管理/标签系统管理.md",
     "医疗行业资讯及关联度/燃石的冰与火之歌.md",
-    "ENDPOINTS NEWS.md",
     "医疗行业资讯及关联度/2023-12-02.md",
     "医疗行业资讯及关联度/Illumina, Inc. (NASDAQ ILMN) Piper Sandler 35th Annual Healthcare Conference.md",
     "系统管理/Markdown 基本语法/基本语法.md",
@@ -202,10 +214,6 @@
     "系统管理/Markdown 基本语法/使用指南/塊鏈接與塊引用.md",
     "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
     "系统管理/Markdown 基本语法/外掛/反向鏈接.md",
-    "医疗行业资讯及关联度/手握17亿，裁员10%人.md",
-    "医疗行业资讯及关联度/风止意难平，也许是注定的谢幕.md",
-    "医疗行业资讯及关联度/2023-11-22.md",
-    "医疗行业资讯及关联度/GenDx 23年财报分析.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
@@ -216,7 +224,6 @@
     "系统管理/Markdown 基本语法/用户界面/工作区",
     "系统管理/Markdown 基本语法/用户界面",
     "系统管理/Markdown 基本语法/外掛",
-    "系统管理/Markdown 基本语法/使用指南",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
