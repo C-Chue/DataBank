@@ -33,14 +33,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.1 Useful Prompts.md",
+                "file": "3.1 Useful Prompts For 优秀论文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3357b6b5ae256545",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2904d315bddf2a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.2Prompts for CV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cc608e5904836f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a937baea252333af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COLD EMAIL TEMPLATE FOR STUDENTS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -107,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.1 Useful Prompts.md",
+                "file": "COLD EMAIL TEMPLATE FOR STUDENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.1 Useful Prompts.md"
+                "file": "COLD EMAIL TEMPLATE FOR STUDENTS.md"
               }
             }
           },
@@ -156,11 +196,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +216,12 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "ba52082ec5846e64",
+  "active": "a937baea252333af",
   "lastOpenFiles": [
+    "COLD EMAIL TEMPLATE FOR STUDENTS.md",
+    "3.2Prompts for CV.md",
+    "3.1 Useful Prompts For 优秀论文.md",
     "3.2 视频内容要点.md",
-    "3.1 Useful Prompts.md",
     "世界艺术史/观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
     "系统管理/Image图片存储/图13  普塔与索卡尔合体图.png",
     "格致·恋爱的苏格拉底/Pasted image 20231204222140.png",
@@ -212,8 +255,6 @@
     "系统管理/Markdown 基本语法/基本语法.md",
     "医疗行业资讯及关联度/2023-11-28.md",
     "系统管理/Markdown 基本语法/使用指南/塊鏈接與塊引用.md",
-    "系统管理/Markdown 基本语法/使用指南/格式化筆記.md",
-    "系统管理/Markdown 基本语法/外掛/反向鏈接.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
