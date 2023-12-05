@@ -78,9 +78,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "692a8b83ac75c93f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c35a18cefac3f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -147,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COLD EMAIL TEMPLATE FOR STUDENTS.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COLD EMAIL TEMPLATE FOR STUDENTS.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -216,8 +236,9 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "a937baea252333af",
+  "active": "1c35a18cefac3f7b",
   "lastOpenFiles": [
+    "未命名.md",
     "COLD EMAIL TEMPLATE FOR STUDENTS.md",
     "3.2Prompts for CV.md",
     "3.1 Useful Prompts For 优秀论文.md",
@@ -254,7 +275,6 @@
     "医疗行业资讯及关联度/Illumina, Inc. (NASDAQ ILMN) Piper Sandler 35th Annual Healthcare Conference.md",
     "系统管理/Markdown 基本语法/基本语法.md",
     "医疗行业资讯及关联度/2023-11-28.md",
-    "系统管理/Markdown 基本语法/使用指南/塊鏈接與塊引用.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
