@@ -8,99 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80209f289ef5ab12",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1bab3ada6850da51",
+            "id": "2e61a6459e2c8fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.2 视频内容要点.md",
+                "file": "被低估的西门子CEO博乐仁.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba52082ec5846e64",
+            "id": "086c851f7d492ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.1 Useful Prompts For 优秀论文.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3357b6b5ae256545",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2904d315bddf2a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.2Prompts for CV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cc608e5904836f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a937baea252333af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COLD EMAIL TEMPLATE FOR STUDENTS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "692a8b83ac75c93f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1c35a18cefac3f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
+                "file": "系统管理/标签系统管理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "被低估的西门子CEO博乐仁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "被低估的西门子CEO博乐仁.md"
               }
             }
           },
@@ -220,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,45 +167,47 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "1c35a18cefac3f7b",
+  "active": "2e61a6459e2c8fc0",
   "lastOpenFiles": [
-    "未命名.md",
+    "系统管理/标签系统管理.md",
+    "被低估的西门子CEO博乐仁.md",
     "COLD EMAIL TEMPLATE FOR STUDENTS.md",
+    "科研&数据处理/3.2 视频内容要点.md",
+    "科研&数据处理/3.1 Useful Prompts For 优秀论文.md",
+    "医疗行业资讯及关联度/礼来制药将在德国投资23亿欧元，第三大国外企业在德国的投资.md",
+    "格致·恋爱的苏格拉底/Pasted image 20231208220119.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231208220058.png",
+    "格致·恋爱的苏格拉底/Pasted image 20231208220045.png",
+    "ii/德国《商报》.png",
+    "ii",
+    "系统管理/Image图片存储/Pasted image 20231204222140.png",
+    "系统管理/Image图片存储/Pasted image 20231204222129.png",
+    "系统管理/Image图片存储/Lilly Pharmakonzern.png",
+    "系统管理/Image图片存储/Pasted image 20231202163753.png",
+    "系统管理/Image图片存储/Pasted image 20231203114925.png",
+    "科研&数据处理/R语言绘图配色 宝藏配色工具之cols4all.md",
+    "科研&数据处理/PCA (Principal Component Analysis) 散点图.md",
+    "ENDPOINTS NEWS.md",
+    "科研&数据处理/DataAnalysis数据分析师课程学习.md",
+    "由此開始.md",
+    "科研&数据处理/玫瑰图.md",
+    "科研&数据处理/18种特色科研图表的绘制方法.md",
+    "科研&数据处理/1.彩色标签条形图.md",
+    "科研&数据处理",
     "3.2Prompts for CV.md",
-    "3.1 Useful Prompts For 优秀论文.md",
-    "3.2 视频内容要点.md",
     "世界艺术史/观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
-    "系统管理/Image图片存储/图13  普塔与索卡尔合体图.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231204222140.png",
-    "系统管理/Image图片存储/图12  国王阿蒙荷太普一世的“一人两体”图像.png",
-    "系统管理/Image图片存储/图11-2.png",
-    "系统管理/Image图片存储/图11-1 太阳神与奥赛里斯神合体的形象.png",
-    "系统管理/Image图片存储/图10 TT5中的鱼形木乃伊.png",
-    "系统管理/Image图片存储/图9 TT335的C墓室中的“带翼女神”图像.png",
-    "系统管理/Image图片存储/图8 TT335的B墓室中的“祖先崇拜”图像.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231204222129.png",
-    "格致·恋爱的苏格拉底/Pasted image 20231204222119.png",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
     "医疗行业资讯及关联度/一鲸既未落万物艰难求生！肿瘤NGS的至暗时刻还远未到来.md",
     "2023-12-04.md",
     "世界艺术史",
-    "玫瑰图.md",
     "未命名 2.md",
     "未命名 1.md",
-    "PCA (Principal Component Analysis) 散点图.md",
-    "ENDPOINTS NEWS.md",
-    "由此開始.md",
     "言尽意论.md",
-    "18种特色科研图表的绘制方法.md",
-    "R语言绘图配色 宝藏配色工具之cols4all.md",
-    "1.彩色标签条形图.md",
     "医疗行业资讯及关联度/2023-09-22.md",
-    "系统管理/标签系统管理.md",
     "医疗行业资讯及关联度/燃石的冰与火之歌.md",
     "医疗行业资讯及关联度/2023-12-02.md",
     "医疗行业资讯及关联度/Illumina, Inc. (NASDAQ ILMN) Piper Sandler 35th Annual Healthcare Conference.md",
-    "系统管理/Markdown 基本语法/基本语法.md",
-    "医疗行业资讯及关联度/2023-11-28.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
@@ -282,8 +216,6 @@
     "系统管理/Markdown 基本语法/高級用法",
     "系统管理/Markdown 基本语法/用户界面/工作区/面板",
     "系统管理/Markdown 基本语法/用户界面/工作区",
-    "系统管理/Markdown 基本语法/用户界面",
-    "系统管理/Markdown 基本语法/外掛",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
