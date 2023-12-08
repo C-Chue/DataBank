@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e61a6459e2c8fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "被低估的西门子CEO博乐仁.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "086c851f7d492ba4",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "被低估的西门子CEO博乐仁.md",
+                "file": "系统管理/标签系统管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "被低估的西门子CEO博乐仁.md"
+                "file": "系统管理/标签系统管理.md"
               }
             }
           },
@@ -167,10 +155,10 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "2e61a6459e2c8fc0",
+  "active": "086c851f7d492ba4",
   "lastOpenFiles": [
-    "系统管理/标签系统管理.md",
     "被低估的西门子CEO博乐仁.md",
+    "系统管理/标签系统管理.md",
     "COLD EMAIL TEMPLATE FOR STUDENTS.md",
     "科研&数据处理/3.2 视频内容要点.md",
     "科研&数据处理/3.1 Useful Prompts For 优秀论文.md",
