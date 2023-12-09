@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系统管理/标签系统管理.md",
+                "file": "3.2Prompts for CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "系统管理/标签系统管理.md",
+                "file": "3.2Prompts for CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "系统管理/标签系统管理.md"
+                "file": "3.2Prompts for CV.md"
               }
             }
           },
@@ -157,9 +157,14 @@
   },
   "active": "086c851f7d492ba4",
   "lastOpenFiles": [
-    "被低估的西门子CEO博乐仁.md",
-    "系统管理/标签系统管理.md",
+    "ENDPOINTS NEWS.md",
+    "由此開始.md",
     "COLD EMAIL TEMPLATE FOR STUDENTS.md",
+    "言尽意论.md",
+    "系统管理/Image图片存储/德国《商报》.png",
+    "3.2Prompts for CV.md",
+    "系统管理/标签系统管理.md",
+    "被低估的西门子CEO博乐仁.md",
     "科研&数据处理/3.2 视频内容要点.md",
     "科研&数据处理/3.1 Useful Prompts For 优秀论文.md",
     "医疗行业资讯及关联度/礼来制药将在德国投资23亿欧元，第三大国外企业在德国的投资.md",
@@ -167,7 +172,6 @@
     "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220058.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220045.png",
-    "ii/德国《商报》.png",
     "ii",
     "系统管理/Image图片存储/Pasted image 20231204222140.png",
     "系统管理/Image图片存储/Pasted image 20231204222129.png",
@@ -176,14 +180,11 @@
     "系统管理/Image图片存储/Pasted image 20231203114925.png",
     "科研&数据处理/R语言绘图配色 宝藏配色工具之cols4all.md",
     "科研&数据处理/PCA (Principal Component Analysis) 散点图.md",
-    "ENDPOINTS NEWS.md",
     "科研&数据处理/DataAnalysis数据分析师课程学习.md",
-    "由此開始.md",
     "科研&数据处理/玫瑰图.md",
     "科研&数据处理/18种特色科研图表的绘制方法.md",
     "科研&数据处理/1.彩色标签条形图.md",
     "科研&数据处理",
-    "3.2Prompts for CV.md",
     "世界艺术史/观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
     "医疗行业资讯及关联度/一鲸既未落万物艰难求生！肿瘤NGS的至暗时刻还远未到来.md",
@@ -191,11 +192,9 @@
     "世界艺术史",
     "未命名 2.md",
     "未命名 1.md",
-    "言尽意论.md",
     "医疗行业资讯及关联度/2023-09-22.md",
     "医疗行业资讯及关联度/燃石的冰与火之歌.md",
     "医疗行业资讯及关联度/2023-12-02.md",
-    "医疗行业资讯及关联度/Illumina, Inc. (NASDAQ ILMN) Piper Sandler 35th Annual Healthcare Conference.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
