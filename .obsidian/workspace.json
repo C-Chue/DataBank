@@ -13,27 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "752eb8402222dbb4",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "5773ec6d09205e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-10.md",
+                "file": "2024-04-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-11.md",
+                "file": "2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-11.md"
+                "file": "2024-04-15.md"
               }
             }
           },
@@ -160,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-11.md",
+                "file": "2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,8 +178,9 @@
   },
   "active": "086c851f7d492ba4",
   "lastOpenFiles": [
-    "2024-04-10.md",
     "2024-04-11.md",
+    "2024-04-15.md",
+    "2024-04-10.md",
     "3.2Prompts for CV.md",
     "ENDPOINTS NEWS.md",
     "由此開始.md",
@@ -236,7 +217,6 @@
     "未命名 2.md",
     "未命名 1.md",
     "医疗行业资讯及关联度/2023-09-22.md",
-    "医疗行业资讯及关联度/燃石的冰与火之歌.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
