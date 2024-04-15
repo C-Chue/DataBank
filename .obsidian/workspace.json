@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-10.md",
+                "file": "2024-04-11.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "752eb8402222dbb4",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
             }
           },
           {
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-10.md",
+                "file": "2024-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-10.md"
+                "file": "2024-04-11.md"
               }
             }
           },
@@ -152,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-10.md",
+                "file": "2024-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +198,9 @@
   },
   "active": "086c851f7d492ba4",
   "lastOpenFiles": [
-    "3.2Prompts for CV.md",
     "2024-04-10.md",
+    "2024-04-11.md",
+    "3.2Prompts for CV.md",
     "ENDPOINTS NEWS.md",
     "由此開始.md",
     "COLD EMAIL TEMPLATE FOR STUDENTS.md",
@@ -228,7 +237,6 @@
     "未命名 1.md",
     "医疗行业资讯及关联度/2023-09-22.md",
     "医疗行业资讯及关联度/燃石的冰与火之歌.md",
-    "医疗行业资讯及关联度/2023-12-02.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
