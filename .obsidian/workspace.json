@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c804c85eae0e8d9",
+        "id": "39ae7694dd1f5a2a",
         "type": "tabs",
         "children": [
           {
-            "id": "086c851f7d492ba4",
+            "id": "6a67f22907d7c574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-15.md",
+                "file": "2024-04-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-15.md",
+                "file": "2024-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-15.md"
+                "file": "2024-04-21.md"
               }
             }
           },
@@ -140,8 +140,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-15.md",
-                "linksCollapsed": false,
+                "file": "2024-04-21.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -176,10 +176,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "086c851f7d492ba4",
+  "active": "6a67f22907d7c574",
   "lastOpenFiles": [
+    "2023-12-04.md",
     "2024-04-11.md",
     "2024-04-15.md",
+    "2024-04-18.md",
+    "2024-04-21.md",
+    "2024-04-20.md",
     "2024-04-10.md",
     "3.2Prompts for CV.md",
     "ENDPOINTS NEWS.md",
@@ -212,11 +216,7 @@
     "世界艺术史/观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
     "格致·恋爱的苏格拉底/Question I：你究竟是怎么知道你喜欢我的.md",
     "医疗行业资讯及关联度/一鲸既未落万物艰难求生！肿瘤NGS的至暗时刻还远未到来.md",
-    "2023-12-04.md",
     "世界艺术史",
-    "未命名 2.md",
-    "未命名 1.md",
-    "医疗行业资讯及关联度/2023-09-22.md",
     "医疗行业资讯及关联度/德国企业.canvas",
     "格致·恋爱的苏格拉底/未命名",
     "系统管理",
