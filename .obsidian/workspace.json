@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-26.md",
+                "file": "2024-04-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-26.md",
+                "file": "2024-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-26.md"
+                "file": "2024-04-21.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-26.md",
+                "file": "2024-04-21.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,12 +155,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +178,8 @@
   },
   "active": "6a67f22907d7c574",
   "lastOpenFiles": [
-    "2024-04-21.md",
     "2024-04-26.md",
+    "2024-04-21.md",
     "2023-12-04.md",
     "2024-04-11.md",
     "2024-04-15.md",
