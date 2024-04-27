@@ -28,7 +28,7 @@
   "showSubtasksInTaskBlocks": true,
   "icals": [],
   "colorOverrides": [],
-  "editMode": "simple",
+  "editMode": "push",
   "copyOnDrag": false,
   "releaseNotes": true
 }
