@@ -1,8 +1,8 @@
 {
-  "chroma": 16,
-  "lightness": 87,
-  "palette": 16,
-  "seed": 0,
+  "chroma": 64,
+  "lightness": 100,
+  "palette": 24,
+  "seed": 10,
   "knownTags": {
     "Ginkgo": 1,
     "合成生物学": 2,

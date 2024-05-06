@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "39ae7694dd1f5a2a",
+        "id": "76b5aa5035688153",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec0d54a80b2c9ef",
+            "id": "b038da8613461b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "观影评审.md",
+                "file": "万物食用指南/Flashcards Use Document.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc3982269d8a3839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish For Reading-ch1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "观影评审.md",
+                "file": "Spanish For Reading-ch1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "观影评审.md"
+                "file": "Spanish For Reading-ch1.md"
               }
             }
           },
@@ -140,14 +154,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "观影评审.md",
+                "file": "Spanish For Reading-ch1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c93f100de9d66646",
+            "id": "675c4fe5b135a193",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -155,11 +169,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,11 +188,16 @@
       "graph:查看關聯圖": false,
       "chronology:Open Chronology": false,
       "publish:發佈變動內容": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "1ec0d54a80b2c9ef",
+  "active": "dc3982269d8a3839",
   "lastOpenFiles": [
+    "万物食用指南/Flashcards Use Document.md",
+    "Spanish For Reading-ch1.md",
+    "万国·西班牙语/单词记忆",
+    "万物食用指南",
     "观影评审.md",
     "英文小说应聘.md",
     "2024-04-21.md",
@@ -213,8 +233,6 @@
     "科研&数据处理/PCA (Principal Component Analysis) 散点图.md",
     "科研&数据处理/DataAnalysis数据分析师课程学习.md",
     "科研&数据处理/玫瑰图.md",
-    "科研&数据处理/18种特色科研图表的绘制方法.md",
-    "科研&数据处理/1.彩色标签条形图.md",
     "科研&数据处理",
     "世界艺术史",
     "医疗行业资讯及关联度/德国企业.canvas",
@@ -223,8 +241,6 @@
     "系统管理/Markdown 基本语法/許可證與附加服務",
     "系统管理/Markdown 基本语法/个性化定制",
     "系统管理/Markdown 基本语法/高級用法",
-    "系统管理/Markdown 基本语法/用户界面/工作区/面板",
-    "系统管理/Markdown 基本语法/用户界面/工作区",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
