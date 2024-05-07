@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Card",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "379c239c20dfef48",
+  "active": "b19eabe8fcac21e1",
   "lastOpenFiles": [
     "ENDPOINTS NEWS.md",
     "COLD EMAIL TEMPLATE FOR STUDENTS.md",
