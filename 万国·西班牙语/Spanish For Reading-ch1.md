@@ -102,4 +102,27 @@ geografía #Card
 geography
 
 lengua #Card 
-language
+language ,but also tongue
+
+idioma #Card 
+idiom,but also language
+
+mayor #Card 
+major,but also older
+
+único #Card 
+unique,but also only
+
+actual #Card 
+at this moment ,not actual
+
+realizar #Card 
+to achieve ,not to become aware of 
+
+lectura #Card 
+reading,not lecture
+
+librería #Card 
+bookstore,not library
+
+ 
