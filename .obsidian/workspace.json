@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Card",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -155,11 +156,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +179,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b5f13d4b46858751",
+  "active": "379c239c20dfef48",
   "lastOpenFiles": [
     "万国·西班牙语/Spanish For Reading-ch1.md",
     "万国·西班牙语/Spanish For Reading-词根.md",
