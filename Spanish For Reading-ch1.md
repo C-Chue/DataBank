@@ -1,1 +1,1 @@
-Civilizac;:_
+	Civilizaci
