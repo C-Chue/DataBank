@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "379c239c20dfef48",
+            "id": "0ca44edbe349724a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "万国·西班牙语/Spanish For Reading-词根.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "万国·西班牙语/Spanish For Reading-词根.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "万国·西班牙语/Spanish For Reading-词根.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "万国·西班牙语/Spanish For Reading-词根.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -179,10 +178,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "379c239c20dfef48",
+  "active": "0ca44edbe349724a",
   "lastOpenFiles": [
+    "未命名.md",
+    "万国·西班牙语/Spanish For Reading-名词词根.md",
     "万国·西班牙语/Spanish For Reading-ch1.md",
-    "万国·西班牙语/Spanish For Reading-词根.md",
     "ENDPOINTS NEWS.md",
     "COLD EMAIL TEMPLATE FOR STUDENTS.md",
     "万物食用指南/Flashcards Use Document.md",
@@ -219,7 +219,6 @@
     "系统管理/Image图片存储/Pasted image 20231203114925.png",
     "科研&数据处理/R语言绘图配色 宝藏配色工具之cols4all.md",
     "科研&数据处理/PCA (Principal Component Analysis) 散点图.md",
-    "科研&数据处理/DataAnalysis数据分析师课程学习.md",
     "科研&数据处理",
     "世界艺术史",
     "医疗行业资讯及关联度/德国企业.canvas",
