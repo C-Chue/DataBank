@@ -1,5 +1,5 @@
 ---
-cards-deck: Spanish For Reading
+cards-deck: Spanish For Reading-ch1
 ---
 
 Civilización #Card 
@@ -13,7 +13,7 @@ Professors
 
 Totalitario #Card 
 Totalitarian
-^1715091356389
+
 Caña #Card 
 Cane
 
@@ -150,3 +150,48 @@ n.  水汽, 蒸汽, 汽; 无实质之物; 烟雾; 幻想
 Crisis #Card 
 Crisis
 n.  危机, 紧要关头, 危险期
+
+humano #Card 
+human
+
+italiano #Card 
+Italian
+
+geográfico #Card 
+geographic
+adj.  地理学的; 地理的
+
+extraordinario #Card 
+extraordinary
+
+nativo #Card 
+native
+
+occidental #Card 
+occidental
+adj.  西洋的, 西方的
+
+peninsular #Card 
+peninsular
+adj.  半岛的; 形成半岛的
+
+diferente #Card 
+different
+
+ling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

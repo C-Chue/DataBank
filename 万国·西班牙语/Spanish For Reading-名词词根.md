@@ -167,5 +167,74 @@ Valencian
 瓦伦西亚语
 
 ~ante #Card 
+~ant
+
+importante #Card 
+important
+
+predominante #Card 
+predominant
+adj.  优越的, 有力的, 卓越的
+
+~ar #Card 
+~ar
+
+peninsular #Card 
+peninsular
+adj.  半岛的; 形成半岛的
+
+~ario #Card 
+~ary
+
+extraordinario #Card 
+extraordinary
+adj.  非常的; 非凡的; 特别的
+
+contrario #Card 
+contrary
+adj.  相反的, 对立的, 矛盾的
+
+~ente #Card 
+~ent
+
+diferente #Card 
+different
+
+patente #Card 
+patent,obvious,self-evident
+adj.  专利的, 新奇的, 显著的
+
+~ico #Card 
+~ic,~ical
+
+hispánico #Card 
+Hispanic
+adj.  西班牙的; 西班牙人的; 西班牙文的
+
+político #Card 
+political
+
+~ivo #Card 
+~ive
+
+exclusivo #Card 
+exclusive
+adj.  独占的, 排外的, 唯一的
+
+nativo #Card 
+native
+adj.  本国的, 自然的, 与生俱来的
+
+
+
+
+
+
+
+
+
+
+
+
 
 
