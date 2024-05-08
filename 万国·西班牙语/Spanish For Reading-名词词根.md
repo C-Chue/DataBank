@@ -225,6 +225,32 @@ nativo #Card
 native
 adj.  本国的, 自然的, 与生俱来的
 
+Adjective word Order and Agreement 
+
+~o for the masculine singular
+~a for the feminine singular
+~s for adjectives ending in a vowel
+~es for adjectives ending in a consonant
+
+el último número #Card 
+the last number
+
+la última página #Card 
+the last page
+
+el artículo importante #Card 
+the important article
+
+
+los artículos importantes #Card 
+the important articles
+
+una idea fundamental #Card 
+a fundamental idea
+
+unas idea fundamentales #Card 
+some fundamental ideas
+
 
 
 

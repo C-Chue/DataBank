@@ -178,9 +178,26 @@ adj.  半岛的; 形成半岛的
 diferente #Card 
 different
 
-ling
+lingüístico #Card 
+linguistic
+adj.  语言的; 语言学的
 
+fundamental #Card 
+fundamental 
 
+indígena #Card 
+indigenous,native
+adj.  土产的; 本地的; 土著的; 生而俱有的, 内在的, 固有的
+
+predominante #Card 
+predominant
+adj.  优越的, 有力的, 卓越的
+
+la lengua española #Card 
+the spanish language
+
+el patrimonio exclusivo #Card 
+the exclusive heritage
 
 
 
