@@ -135,4 +135,18 @@ El,un #Card
 sigular masculine nouns
 
 La,una #Card 
-singular femini
+singular feminine nouns
+
+Los,unos #Card 
+plural masculine noun
+
+Las,unas #Card 
+plural feminine nouns
+
+Vapor #Card 
+Vapor
+n.  水汽, 蒸汽, 汽; 无实质之物; 烟雾; 幻想
+
+Crisis #Card 
+Crisis
+n.  危机, 紧要关头, 危险期

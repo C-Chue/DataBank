@@ -121,8 +121,51 @@ Catalan,Catalonian
 la literatura #Card 
 the literature
 
+~al,~ion,~or,~sis #Card 
+English and spanish have identical or nearly identical spellings and meanings
 
+experimental #Card 
+experimental
 
+región #Card 
+region
 
+de #Card 
+
+El auto de María #Card 
+Maria´s car
+
+El día del padre #Card 
+Father´s Day
+
+La capital de Argentina #Card 
+The capital of Argentina
+
+Los días de la semana #Card 
+The days of the week
+
+~al, #Card 
+~al
+
+oficial #Card 
+official
+
+universal #Card 
+universal
+
+~ano #Card 
+~an
+
+humano #Card 
+human
+
+americano #Card 
+American
+
+valenciano #Card 
+Valencian
+瓦伦西亚语
+
+~ante #Card 
 
 
