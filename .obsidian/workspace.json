@@ -66,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -155,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,7 +180,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0ca44edbe349724a",
+  "active": "b5f13d4b46858751",
   "lastOpenFiles": [
     "万国·西班牙语/Spanish For Reading-名词词根.md",
     "未命名.md",

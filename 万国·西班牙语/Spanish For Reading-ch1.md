@@ -125,4 +125,14 @@ reading,not lecture
 librería #Card 
 bookstore,not library
 
- 
+ el,al,los,las  #Card 
+ the
+
+un,una,unos,unas #Card 
+a,some
+
+El,un #Card 
+sigular masculine nouns
+
+La,una #Card 
+singular femini
