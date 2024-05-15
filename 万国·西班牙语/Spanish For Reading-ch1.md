@@ -1,6 +1,3 @@
----
-cards-deck: Spanish For Reading-ch1
----
 
 Civilización #Card 
 Civilization
