@@ -289,8 +289,7 @@ native
 adj.  本国的, 自然的, 与生俱来的
 ^1715769509647
 
-Adjective word Order and Agreement 
-
+Adjective word Order and Agreement  #Card 
 ~o for the masculine singular
 ~a for the feminine singular
 ~s for adjectives ending in a vowel
