@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ca44edbe349724a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "作业/00.Latin作业.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "46efba69452a5a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.财务思维作业.md",
+                "file": "作业/作业102-分析企业.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.财务思维作业.md",
+                "file": "作业/作业102-分析企业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.财务思维作业.md"
+                "file": "作业/作业102-分析企业.md"
               }
             }
           },
@@ -153,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.财务思维作业.md",
+                "file": "作业/作业102-分析企业.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +180,9 @@
   },
   "active": "46efba69452a5a09",
   "lastOpenFiles": [
+    "作业/10.财务思维作业.md",
+    "作业/作业102-分析企业.md",
     "作业102.md",
-    "10.财务思维作业.md",
     "作业/00.Latin作业.md",
     "学习习惯/KWL.md",
     "万物食用指南/Flashcards Use Document.md",
@@ -221,7 +209,6 @@
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
     "万物食用指南/系统管理/标签系统管理.md",
     "被低估的西门子CEO博乐仁.md",
-    "科研&数据处理/3.2 视频内容要点.md",
     "格致·恋爱的苏格拉底/Pasted image 20231208220119.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220058.png",
