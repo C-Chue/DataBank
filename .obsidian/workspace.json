@@ -156,11 +156,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +179,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "242ac8ff50a83f27",
+  "active": "b5f13d4b46858751",
   "lastOpenFiles": [
     "interview-ANFFF.md",
     "作业/作业102-分析企业.md",
