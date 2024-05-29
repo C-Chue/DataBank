@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMA Learning Plan.md",
+                "file": "CMA Learning Plan1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a4f45ccfb00d389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMA preparation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7addcb8f7aaa765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FREE resource of CMA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -87,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMA Learning Plan.md",
+                "file": "FREE resource of CMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMA Learning Plan.md"
+                "file": "FREE resource of CMA.md"
               }
             }
           },
@@ -141,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMA Learning Plan.md",
+                "file": "FREE resource of CMA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +203,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "9629ef6f8def4989",
+  "active": "a7addcb8f7aaa765",
   "lastOpenFiles": [
-    "CMA Learning Plan.md",
+    "FREE resource of CMA.md",
+    "CMA preparation.md",
+    "CMA Learning Plan1.md",
+    "CMA Learning Plan2.md",
     "interview-ANFFF.md",
     "作业/作业102-分析企业.md",
     "2024-05-22.md",
@@ -206,9 +233,6 @@
     "观影评审.md",
     "英文小说应聘.md",
     "2024-04-21.md",
-    "2024-04-26.md",
-    "2023-12-04.md",
-    "2024-04-11.md",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220119.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
