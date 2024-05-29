@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a7addcb8f7aaa765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FREE resource of CMA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FREE resource of CMA.md",
+                "file": "CMA Learning Plan1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FREE resource of CMA.md"
+                "file": "CMA Learning Plan1.md"
               }
             }
           },
@@ -166,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FREE resource of CMA.md",
+                "file": "CMA Learning Plan1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +191,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a7addcb8f7aaa765",
+  "active": "9629ef6f8def4989",
   "lastOpenFiles": [
-    "FREE resource of CMA.md",
     "CMA preparation.md",
+    "FREE resource of CMA.md",
     "CMA Learning Plan1.md",
     "CMA Learning Plan2.md",
     "interview-ANFFF.md",
