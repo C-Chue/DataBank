@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMA Learning Plan1.md",
+                "file": "CMA Learning Plan2.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6882baed91219b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FREE resource-2 of CMA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -82,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMA Learning Plan1.md",
+                "file": "FREE resource-2 of CMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMA Learning Plan1.md"
+                "file": "FREE resource-2 of CMA.md"
               }
             }
           },
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMA Learning Plan1.md",
+                "file": "FREE resource-2 of CMA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -191,12 +203,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "9629ef6f8def4989",
+  "active": "6882baed91219b3f",
   "lastOpenFiles": [
+    "Free resouce-1.md",
+    "FREE resource-2 of CMA.md",
     "CMA preparation.md",
-    "FREE resource of CMA.md",
-    "CMA Learning Plan1.md",
     "CMA Learning Plan2.md",
+    "CMA Learning Plan1.md",
     "interview-ANFFF.md",
     "作业/作业102-分析企业.md",
     "2024-05-22.md",
@@ -220,7 +233,6 @@
     "万物食用指南",
     "观影评审.md",
     "英文小说应聘.md",
-    "2024-04-21.md",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220119.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
