@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "343da040d74d6c8c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -178,7 +189,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "ededb5d406ef0201",
+  "active": "343da040d74d6c8c",
   "lastOpenFiles": [
     "财务相关课程.md",
     "ChatGPT学术写作的2个指令.md",
