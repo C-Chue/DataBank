@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0747ed8f30ed255",
+        "id": "fc4fa0ebfb792796",
         "type": "tabs",
         "children": [
           {
-            "id": "ededb5d406ef0201",
+            "id": "b7c7b1bdb6651ed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "财务相关课程.md",
+                "file": "万国·西班牙语/ir a + infinitivo.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "343da040d74d6c8c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "财务相关课程.md",
+                "file": "万国·西班牙语/ir a + infinitivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "财务相关课程.md"
+                "file": "万国·西班牙语/ir a + infinitivo.md"
               }
             }
           },
@@ -152,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "财务相关课程.md",
+                "file": "万国·西班牙语/ir a + infinitivo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +179,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "343da040d74d6c8c",
+  "active": "b7c7b1bdb6651ed7",
   "lastOpenFiles": [
+    "万国·西班牙语/ir a + infinitivo.md",
+    "未命名",
     "财务相关课程.md",
     "ChatGPT学术写作的2个指令.md",
     "世界艺术史/观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
@@ -216,7 +208,6 @@
     "作业/作业102-分析企业.md",
     "2024-05-22.md",
     "医疗行业资讯及关联度/NUcleic acid Linked Immuno-Sandwich Assay（核酸连接的免疫-夹心测定）.md",
-    "医疗行业资讯及关联度/一鲸既未落万物艰难求生！肿瘤NGS的至暗时刻还远未到来.md",
     "万国·西班牙语/单词记忆",
     "万物食用指南",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
@@ -237,7 +228,6 @@
     "万物食用指南/系统管理",
     "万物食用指南/系统管理/Markdown 基本语法/許可證與附加服務",
     "万物食用指南/系统管理/Markdown 基本语法/个性化定制",
-    "万物食用指南/系统管理/Markdown 基本语法/高級用法",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
