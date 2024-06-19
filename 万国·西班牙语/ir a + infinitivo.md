@@ -96,11 +96,13 @@ La [posición de los pronombres de complemento directo (CD) y complemento indir
 
 **Completa las oraciones con la perífrasis _ir a + infinitivo_ en presente.**
 
-1. Mis vecinos **van a mudarse** la semana que viene.
+1. Mis vecinos **van a mudarse/se van a mudar** la semana que viene.
     _My neighbours are moving in next week_
-2. Si lo ves, seguro que **vas a reírte**.
+2. Si lo ves, seguro que **vas a reírte/te vas a reír**.
     _If you watch it, you're going to laugh_
-3. Aunque sea difícil, nunca **vamos a rendirnos/no vamos a rendir **.
-    _Even if it is difficult,we will never give up_
-5. Yo voy a irme de vacaciones al Caribe.
-6. Mi hermana va a llamarse Carolina.
+3. Aunque sea difícil, nunca **vamos a rendirnos/nos vamos a rendir ** .
+    _Even if it is difficult, we will never give up_
+4.  **Yo voy a irme/Voy a irme/yo me voy a ir/Me voy a ir** de vacaciones al Caribe.
+    _I am going on/I am going to leave for holiday in the Caribe_
+5. Mi hermana **va a llamarse/se va a llamar** Carolina.
+    _My sister is going to be called Carolina_
