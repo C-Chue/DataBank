@@ -13,14 +13,14 @@ La [perífrasis](https://espanol.lingolia.com/es/gramatica/verbos/perifrasis-ve
 
 Para formar la [perífrasis verbal](https://espanol.lingolia.com/es/gramatica/verbos/perifrasis-verbales) _ir a + infinitivo_ se combina el verbo _ir_ en [presente de indicativo](https://espanol.lingolia.com/es/gramatica/tiempos/presente) + la [preposición](https://espanol.lingolia.com/es/gramatica/preposiciones "Las preposiciones en español") _a_ + el [infinitivo](https://espanol.lingolia.com/es/gramatica/verbos/infinitivo "El infinitivo en español") del verbo principal.
 
-|Persona|ir|Preposición|Infinitivo|
-|---|---|---|---|
-|yo|voy|a|hablar<br><br>aprender<br><br>vivir|
-|tú|vas|
-|él, ella, usted|va|
-|nosotros/-as|vamos|
-|vosotros/-as|vais|
-|ellos/-as, ustedes|van|
+| Persona            | ir    | Preposición | Infinitivo                          |
+| ------------------ | ----- | ----------- | ----------------------------------- |
+| yo                 | voy   | a           | hablar<br><br>aprender<br><br>vivir |
+| tú                 | vas   |             |                                     |
+| él, ella, usted    | va    |             |                                     |
+| nosotros/-as       | vamos |             |                                     |
+| vosotros/-as       | vais  |             |                                     |
+| ellos/-as, ustedes | van   |             |                                     |
 
 ### Verbos reflexivos
 
