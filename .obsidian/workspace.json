@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "医学英语词根词缀分类数据库/Catti 单词积累.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医学英语词根词缀分类数据库/Catti 单词积累.md"
+                "file": "Python.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "医学英语词根词缀分类数据库/Catti 单词积累.md",
+                "file": "Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +204,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "296e4e49de5e61d4",
+  "active": "2f494d1c0a202914",
   "lastOpenFiles": [
     "万国·西班牙语/ir a + infinitivo.md",
     "医学英语词根词缀分类数据库/Catti 单词积累.md",
-    "未命名 2.md",
+    "Python.md",
     "万国·西班牙语/words meet very fresh.md",
     "万国·西班牙语/Spanish For Reading-名词词根.md",
     "未命名",
