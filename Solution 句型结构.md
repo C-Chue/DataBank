@@ -89,32 +89,63 @@ implement the new procedures.See Synonyms at &b{enforce}
 
 **immediate** #Card 
 adj.（形容词）
-1. Occurring at once; instant:
-立刻的：立刻发生的；立即的：
-gave me an immediate response.
-马上给我答复
+1. Occurring at once; instant:立刻的：立刻发生的；立即的：
+gave me an immediate response.马上给我答复
 2. Of or near the present time:
-即将的：现在的，或接近现在的：
-in the immediate future.
-在不远的将来
+即将的：现在的，或接近现在的：in the immediate future.在不远的将来
 3. Of or relating to the present time and place; current:
 目前的：和当时当地有关的；当前的：
-“It is probable that, apart from the most immediate, pragmatic, technical revisions, the writer's effort to detach himself from his work is quixotic”(&b{Joyce Carol Oates})
-^1719931557610
+“It is probable that, apart from the most immediate, pragmatic, technical revisions, the writer's effort to detach himself from his work is quixotic”({Joyce Carol Oates})
 “除了最当前的、实用的，技术性的修改外，作者使他自己远离作品的努力有可能是不切实际的”(乔伊丝·卡罗尔·奥茨)
-4. Close at hand; near:
-临近的，紧邻的：
-in the immediate vicinity.See Synonyms at &b{close} 
-^1719931557613
-在临近的地区参见 close
-5. Next in line or relation:
-后继的，下个的：在队列或联系中最近的：
-is an immediate successor to the president of the company.
-公司总裁最近的继承者
-6. Directly apprehended or perceived:
-直觉的：直接理解或认识到的：
-had immediate awareness of the scope of the crisis.
-对危机的范围有直接的认识
+4. Close at hand; near:临近的，紧邻的：
+in the immediate vicinity.在临近的地区参见 close
+5. Next in line or relation:后继的，下个的：在队列或联系中最近的：
+is an immediate successor to the president of the company.公司总裁最近的继承者
+6. Directly apprehended or perceived:直觉的：直接理解或认识到的：
+had immediate awareness of the scope of the crisis.对危机的范围有直接的认识
 7. Acting or occurring without the interposition of another agency or object; direct.
 直接的，无中介的：没有另外一个媒介或物体介入就发生或产生的；直接的
 ^1719931557615
+
+**tackle** #Card 
+n.（名词）
+1. The equipment used in a sport or an occupation, especially in fishing; gear.See Synonyms at equipment 
+装备：一项体育活动或一项职业所使用的装备，尤指钓鱼时使用的器具；用具参见 equipment
+2. Nautical 【航海】 
+4. A system of ropes and blocks for raising and lowering weights of rigging and pulleys for applying tension.
+索具：由升降索上升降重物的绳索、铁块和用来施加压力的滑轮所组成的一套系统
+5. A rope and its pulley.索滑轮：绳索及它上面装的滑轮
+6. Football 【橄榄球】 
+7. Either of the two line players on a team positioned between the guard and the end.
+阻截队员：站位处于后卫和边锋之间的两名线上队员中的一名
+8. This position.内边锋的位置
+9. The act of stopping an opposing player by seizing and throwing the player down.
+阻挡：擒住并将其摔倒在地以阻止一名对方球员的行为
+v.（动词）  tackled,tackling,tackles 
+v.tr.（及物动词）
+1. To take on and wrestle with (an opponent or a problem, for example).
+着手处理：接受（比如一名对手或一个问题）的挑战并与之拼搏
+2. Football To seize and throw down (an opposing player).
+【橄榄球】 擒住并摔倒（一名对方球员）
+3. To harness (a horse).给（马）配上挽具
+v.intr.Football （不及物动词）【橄榄球】 
+To seize and throw down an opponent.
+擒住并摔倒一名对手
+
+
+wrestle with #Card 
+接受...挑战，与...进行搏斗
+
+**underlying** #Card 
+adj.（形容词）
+1. Lying under or beneath something:位于某物之下的：underlying strata.下层
+2. Basic; fundamental.基础的；基本的，同义词： fundamental ， rudimentary
+3. Present but not obvious; implicit:出现但不明显的；隐含的：an underlying meaning.潜在的意义
+4. Taking precedence; prior:取得领先的；更重要的：an underlying financial claim.优先的财政要求
+
+**rudimentary** #Card 
+adj.（形容词）
+1. Of or relating to basic facts or principles; elementary.基本的，初步的；有关基本事实或原理的
+2. Being in the earliest stages of development; incipient.处于发展的最早阶段的；尚未发展完全的
+3. Biology Imperfectly or incompletely developed; embryonic:【生物学】 未完善或未完全发育的；未成熟的：
+a rudimentary beak.未成熟的喙
