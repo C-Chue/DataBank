@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a105dd81ede310c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solution 句型结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Solution 句型结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "Solution 句型结构.md"
               }
             }
           },
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "Solution 句型结构.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,11 +216,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2f494d1c0a202914",
+  "active": "4a105dd81ede310c",
   "lastOpenFiles": [
+    "Solution 句型结构.md",
+    "Python.md",
     "万国·西班牙语/ir a + infinitivo.md",
     "医学英语词根词缀分类数据库/Catti 单词积累.md",
-    "Python.md",
     "万国·西班牙语/words meet very fresh.md",
     "万国·西班牙语/Spanish For Reading-名词词根.md",
     "未命名",
@@ -232,7 +245,6 @@
     "CMA preparation.md",
     "FREE resource-2 of CMA.md",
     "Free resouce-1.md",
-    "CMA Learning Plan1.md",
     "万国·西班牙语/单词记忆",
     "万物食用指南",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
