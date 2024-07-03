@@ -189,7 +189,42 @@ adj.（形容词）整体的; 全盘的
 3. Concerned with wholes rather than analysis or separation into parts:强调整体分析而忽略部分分析的：
 **holistic** medicine; holistic ecology.全身治疗的药物；注重整体的生态学
 
-**sustainable agriculture**
+**sustainable agriculture** #Card 
 n.（名词）
 A method of agriculture that attempts to ensure the profitability of farms while preserving the environment.
 耐久性农耕：保护环境的同时又能确保农地肥沃度的农耕方式
+
+**efficacy** #Card 
+n.（名词），同义词： ability  capacity  competence  proficiency
+Power or capacity to produce a desired effect; effectiveness.
+效验：产生预期效果的力量或能力；效力
+
+
+**initiative** #Card 
+n.（名词）
+1. The power or ability to begin or to follow through energetically with a plan or task; enterprise and determination.首创精神，进取心：开始并精力充沛地执行一项计划、任务的力量或能力；进取心和决心
+2. A beginning or introductory step; an opening move:率先，开端：开始的、初级的阶段；公开的行动：
+took the **initiative** in trying to solve the problem.开始着手试图解决这个问题
+3. The power or right to introduce a new legislative measure.立法提案权：采取一种新的立法措施的能力或权利
+4. The right and procedure by which citizens can propose a law by petition and ensure its submission to the electorate.革命立法提案权：一种权利和程序，通过它们公民可以通过请愿形式提出一项法案并将其提交给选举团
+adj.（形容词）
+1. Of or relating to initiation.开始的：开始的或与开始有关的
+2. Used to initiate; initiatory.起初的，初步的：用来开始的；初步的
+
+**innovation** #Card 
+n.（名词）
+1. The act of introducing something new.革新：介绍新东西的行为
+2. Something newly introduced.新方法，新技术：新介绍的东西
+
+
+
+**acceptance** #Card 
+n.Abbr. acpt.（名词）缩写 acpt.
+1. The act or process of accepting.接受，收受：接受的行为或过程
+2. The state of being accepted or acceptable.领受，受理：被接受或可被接受的状态
+3. Favorable reception; approval.赞同；肯定
+4. Belief in something; agreement.信任；认同
+5. A formal indication by a debtor of willingness to pay a time draft or bill of exchange.承兑，认付：负债人的正式表明愿意偿还一定期汇票或汇票
+6. A written instrument so accepted.承兑汇票：这样被接受的一种书面文书
+7. Law Compliance by one party with the terms and conditions of another's offer so that a contract becomes legally binding between them.
+【法律】 承担，承诺：一方同意另一方的条款和条件从而使合同对双方都具法律效力
