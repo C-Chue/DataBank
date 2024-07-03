@@ -7,7 +7,7 @@ Example:One possible solution is to develop and implement comprehensive policies
 
 
 **2.Another effective approach is to (verb phrase)...**
-e.g. Another effective approach is to establish multi-stakeholder partnerships that lecerage the strengths and resources of various sectors to create a more holistic and sustainable impact.
+e.g. Another effective approach is to establish multi-stakeholder partnerships that leverage the strengths and resources of various sectors to create a more holistic and sustainable impact.
 
 **3.A viable solution to this issue could be (verb+ing)...**
 e.g. A viable solution to this issue could be launching targeted initiatives that combine technological innovation with community engagement to ensure both efficacy and acceptance.
@@ -149,3 +149,47 @@ adj.（形容词）
 2. Being in the earliest stages of development; incipient.处于发展的最早阶段的；尚未发展完全的
 3. Biology Imperfectly or incompletely developed; embryonic:【生物学】 未完善或未完全发育的；未成熟的：
 a rudimentary beak.未成熟的喙
+
+**establish** #Card 
+v.tr.（及物动词）  es.tablished,establishing,establishes 
+1. To set up; found.See Synonyms at found 创建：建立；建造参见 found
+2. To bring about; generate:带来，招致：带来；引起：
+**establish** goodwill in the neighborhood.给邻居带来美好的祝福
+3. To place or settle in a secure position or condition; install:使被安排好：以安全的位置或状态安置或安放；放置：
+They **established** me in my own business.他们让我在我自己的公司中任职
+4. To make firm or secure.确立或使安全
+5. To cause to be recognized and accepted:使…被接受：使…得到承认和使…被接受：
+a discovery that **established** his reputation.
+这个发现建立了他的声望
+6. To introduce and put (a law, for example) into force.介绍和实施（如，法律）
+7. To prove the validity or truth of:担保：确保…合法性或安全性：
+The defense attorneys **established** the innocence of the accused.那位辩护律师运用法律来证明被告是无罪的
+8. To make a state institution of (a church).使…成为公共设施（教堂）
+
+
+**leverage** #Card 
+n.（名词）
+1. The action of a lever.杠杆作用
+2. The mechanical advantage of a lever.杠杆的机械效率
+3. Positional advantage; power to act effectively:优势，力量：位置上的优势；有效的行动：
+“started his . . . career with far more social **leverage** than his father had enjoyed”(&b{Doris Kearns Goodwin})
+“他开始了自己的事业，并享有比他的父辈更多的社会优势”(多丽丝·克恩斯·古德温)
+4. The use of credit or borrowed funds to improve one's speculative capacity and increase the rate of return from an investment, as in buying securities on margin.举债经营：用信用或贷款增加自己的投机能力并增加投资收益率，例如利用原价与买价之差来购买证券
+v.tr.（及物动词）  leveraged,lev.eraging,leverages 
+1. To provide (a company) with leverage.使（某一公司）举债经营
+2. To supplement (money, for example) with leverage.补充（如金钱）支持
+3. To affect as if by leverage:杠杆作用：好象通过杠杆作用进行影响：
+a lifestyle that was **leveraged** by business responsibilities.
+被商业责任大大影响的生活方式
+
+**holistic** #Card 
+adj.（形容词）整体的; 全盘的
+1. Of or relating to holism.属于或有关整体论的
+2. Emphasizing the importance of the whole and the interdependence of its parts.强调整体的重要性及其不可分割性的
+3. Concerned with wholes rather than analysis or separation into parts:强调整体分析而忽略部分分析的：
+**holistic** medicine; holistic ecology.全身治疗的药物；注重整体的生态学
+
+**sustainable agriculture**
+n.（名词）
+A method of agriculture that attempts to ensure the profitability of farms while preserving the environment.
+耐久性农耕：保护环境的同时又能确保农地肥沃度的农耕方式
