@@ -228,3 +228,29 @@ n.Abbr. acpt.（名词）缩写 acpt.
 6. A written instrument so accepted.承兑汇票：这样被接受的一种书面文书
 7. Law Compliance by one party with the terms and conditions of another's offer so that a contract becomes legally binding between them.
 【法律】 承担，承诺：一方同意另一方的条款和条件从而使合同对双方都具法律效力
+
+
+**integrate** #Card 
+v.（动词）  integrated,integrating,integrates 
+v.tr.（及物动词）
+1. To make into a whole by bringing all parts together; unify.使成一体：把所有部分放在一起而成一整体；使结合
+2. To join with something else; unite.合并；联合
+3. To make part of a larger unit:做为较大整体中的一部分：
+**integrated** the new procedures into the work routine.把新程序容入了工作程序
+4. To open to people of all races or ethnic groups without restriction; desegregate.使获得平等待遇：面向所有种族或宗教团体而无任何限制；取消种族隔离
+5. Mathematics 【数学】 
+6. To calculate the **integral** of.求…的积分
+7. To perform integration on.以积分法运算
+8. Psychology To bring about the **integration** of (personality traits).【心理学】 同化：导致（性格特点）的融合
+v.intr.（不及物动词）To become integrated or undergo integration.成为一体或结合在一起
+
+
+**advocacy** #card
+n.（名词）
+The act of pleading or arguing in favor of something, such as a cause, an idea, or a policy; active support.
+拥护：请求或争辩以支持诸如事业，观点或政策等的行为；积极的支持
+
+**motivated** #Card 
+adj.  有动机的, 有目的的; 有积极性的
+v.tr.（及物动词）  mo.ti.vat.ed,mo.ti.vat.ing,mo.ti.vates 
+To provide with an incentive; move to action; impel.提供动机：给予（某人做…的）动机；使行动；推动
