@@ -15,7 +15,7 @@ e.g. an eloquent speaker; an eloquent sermon.
 2.Vividly or movingly expressive:
 富于表情的：生动感人地表达的：
 a look eloquent with compassion.See Synonyms at &b{expressive}
-^1719931607944
+^17199316079441
 充满同情的表情参见 **expressive**
 ^1719931607947
 
