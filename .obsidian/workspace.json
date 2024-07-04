@@ -56,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning.md",
+                "file": "Solution 句型结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning.md"
+                "file": "Solution 句型结构.md"
               }
             }
           },
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning.md",
+                "file": "Solution 句型结构.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +214,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a28944aa02542b56",
+  "active": "4a105dd81ede310c",
   "lastOpenFiles": [
     "Planning.md",
     "万国·西班牙语/ir a + infinitivo.md",

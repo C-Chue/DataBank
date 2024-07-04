@@ -18,7 +18,7 @@ e.g. It is crucial to integrate education and advocacy campaigns as a way to add
 **5.One way to tackle this problem is by (verb + -ing)...**
 e.g. One way to tackle this problem is by fostering a culture of sustainability through continuous education and the promotion of eco-friendly practices in everyday life.
 
-**6.To alleviate this situation ,(subject + modal verb)...**
+**6.To alleviate this situation ,(subject + modal verb)...** 
 e.g. To alleviate this situation, governments must implement comprehensive tax incentives and subsidies that encourage businesses and consumers to adopt greener technologies and practices.
 
 **7.To mitigate the negative impacts ,(subject + modal verb)...**
@@ -256,3 +256,55 @@ v.tr.（及物动词）  mo.ti.vat.ed,mo.ti.vat.ing,mo.ti.vates
 To provide with an incentive; move to action; impel.提供动机：给予（某人做…的）动机；使行动；推动
 
 
+**sustainability** #Card 
+n.可持续发展
+
+**sustain** #Card 
+v.tr.（及物动词）  sus.tained,sus.tain.ing,sus.tains 
+1. To keep in existence; maintain.继续生存；维持
+2. To supply with necessities or nourishment; provide for.补给，提供：供给必需品及营养；提供
+3. To support from below; keep from falling or sinking; prop.支撑：从下边支持；防止摔下或下沉；支撑
+4. To support the spirits, vitality, or resolution of; encourage.支持，鼓舞：支撑…的精神、生命力或决心；鼓励
+5. To bear up under; withstand:承受；抵抗：
+can't **sustain** the blistering heat.无法忍受酷热
+6. To experience or suffer:经历或遭受：
+**sustained** a fatal injury.See Synonyms at &b{experience} 遭受致命的伤害参见 experience
+7. To affirm the validity of:确定，认可：确认…的有效性：
+The judge has sustained the prosecutor's objection.法官确认原告反对为有效
+8. To prove or corroborate; confirm.证明或确证；证实
+9. To keep up (a joke or an assumed role, for example) competently.胜任：称职地维持（一笑话或角色）
+
+**blistering** #Card 
+adj.  使起水泡或气泡的; 愤怒的; 猛烈的
+1. Intensely hot:酷热的：
+a **blistering** sun.骄阳
+2. Harsh; severe:严厉的；严重的：
+**blistering** criticism.严厉批评
+3. Very rapid:非常快的：
+a **blistering** pace.极快的速度
+4. Producing a blister or blisters:起泡的：
+a **blistering** agent.起泡剂
+
+
+ **alleviate** #Card 
+ v.  减轻, 使缓和
+ v.tr.（及物动词）  alleviated,alleviating,alleviates 
+To make (pain, for example) more bearable:
+减轻：使（痛苦等）更易于忍受：
+a drug that **alleviates** cold symptoms.See Synonyms at &b{relieve} 
+一种减轻感冒症状的药品参见 relieve
+
+**implement** #Card 
+n.（名词）
+1. A tool or an instrument used in doing work:工具，器械：工作中使用的工具或器械：
+a gardening **implement**.See Synonyms at &b{tool} 园艺工具参见 tool
+2. An article used to outfit or equip.
+装备，家具，服装：用来装备或配备的物品
+3. A means of achieving an end; an instrument or agent.
+媒介，手段：达到目的的途径；手段或媒介
+v.tr.（及物动词）  im.ple.ment.ed,im.ple.ment.ing,im.ple.ments[-mµnt”]  
+1. To put into practical effect; carry out:使生效；执行：
+**implement** the new procedures.See Synonyms at &b{enforce} 
+实施新的程序参见 enforce
+2. To supply with implements.
+向…提供工具
