@@ -306,5 +306,26 @@ v.tr.（及物动词）  im.ple.ment.ed,im.ple.ment.ing,im.ple.ments[-mµnt”]
 1. To put into practical effect; carry out:使生效；执行：
 **implement** the new procedures.See Synonyms at &b{enforce} 
 实施新的程序参见 enforce
-2. To supply with implements.
-向…提供工具
+2. To supply with implements.向…提供工具
+
+
+**incentivres** #Card 
+n.（名词）
+Something, such as the fear of punishment or the expectation of reward, that induces action or motivates effort.
+刺激; 诱因; 动机：引起行动或激发努力的某事，比如对惩罚的恐惧或对奖励的期望
+adj.（形容词）
+Serving to induce or motivate:
+刺激的; 诱发的：用来诱使或激励的：
+an **incentive** bonus for high productivity.
+设立剌激性奖金以提高的生产率
+
+
+**subsidies** #Card 
+n.（名词）  【复数】 sub.si.dies 
+1. Monetary assistance granted by a government to a person or group in support of an enterprise regarded as being in the public interest.See Synonyms at bonus 
+补助金：政府给予个人或一团体以支持被看作是有益于公众的企业的津贴参见 bonus
+2. Financial assistance given by one person or government to another.
+经济援助：一个人或政府给另一个人或政府的经济援助
+3. Money formerly granted to the British Crown by Parliament.
+旧时英国国会给皇家的特支费
+
