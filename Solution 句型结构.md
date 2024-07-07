@@ -3,7 +3,7 @@ cards-deck: 雅思
 ---
 
 **1.One possible solution is to （verb phrase）...**
-Example:One possible solution is to develop and implement comprehensive policies that not only address the immediate symptoms but also tackle the underlying causes of the problem.
+Example:One possible solution is to develop and [implement] comprehensive policies that not only address the immediate symptoms but also tackle the underlying causes of the problem.
 
 
 **2.Another effective approach is to (verb phrase)...**
@@ -68,7 +68,7 @@ n.（名词）  【复数】 preliminaries
 常作 preliminaries 【印刷术】 前言：书的开头内容
 ^1719931557599
 
-**implement** #Card 
+**[[implement]]** #Card 
 n.（名词）
 1. A tool or an instrument used in doing work:
 工具，器械：工作中使用的工具或器械：
@@ -329,3 +329,10 @@ n.（名词）  【复数】 sub.si.dies
 3. Money formerly granted to the British Crown by Parliament.
 旧时英国国会给皇家的特支费
 
+**mitigate** #Card 
+v.  镇静, 减轻, 缓和; 缓和下来; 减轻,反义词：aggravate  deteriorate
+v.（动词）  mitigated,mitigating,mitigates 
+v.tr.（及物动词）
+To moderate (a quality or condition) in force or intensity; alleviate.See Synonyms at relieve 
+使减轻：在力量或强度上减轻（一种性质或条件）；缓和参见 **relieve**
+v.intr.（不及物动词）To become milder.变得更柔和

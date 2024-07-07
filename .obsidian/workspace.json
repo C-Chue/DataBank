@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a105dd81ede310c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solution 句型结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "296e4e49de5e61d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "医学英语词根词缀分类数据库/Catti 单词积累.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f494d1c0a202914",
             "type": "leaf",
             "state": {
@@ -49,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning.md",
+                "file": "Solution 句型结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solution 句型结构.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solution 句型结构.md"
+                "file": "Python.md"
               }
             }
           },
@@ -177,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solution 句型结构.md",
+                "file": "Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,12 +189,18 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "4a105dd81ede310c",
+  "active": "2f494d1c0a202914",
   "lastOpenFiles": [
-    "Planning.md",
-    "万国·西班牙语/ir a + infinitivo.md",
-    "医学英语词根词缀分类数据库/Catti 单词积累.md",
     "Solution 句型结构.md",
+    "Planning.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/acro-1.md",
+    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/身体；肢体；体层.md",
+    "万物食用指南/系统管理/Markdown 基本语法/使用指南/內部鏈接.md",
+    "万物食用指南/系统管理/Markdown 基本语法/外掛/頁面預覽.md",
+    "由此開始.md",
+    "医学英语词根词缀分类数据库/Catti 单词积累.md",
+    "implement.md",
+    "万国·西班牙语/ir a + infinitivo.md",
     "Python.md",
     "万国·西班牙语/words meet very fresh.md",
     "万国·西班牙语/Spanish For Reading-名词词根.md",
@@ -237,12 +218,6 @@
     "2024-04-18.md",
     "2024-04-11.md",
     "2024-04-10.md",
-    "2023-12-04.md",
-    "3.2Prompts for CV.md",
-    "医疗行业资讯及关联度/悬念揭晓，2024Q1燃石交出一份不一样的成绩单.md",
-    "CMA Learning Plan2.md",
-    "CMA preparation.md",
-    "FREE resource-2 of CMA.md",
     "万国·西班牙语/单词记忆",
     "万物食用指南",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
