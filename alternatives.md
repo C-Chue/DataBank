@@ -1,3 +1,7 @@
+---
+cards-deck: 万国·英语::雅思::雅思词库积累
+---
+
 **alternative** #Card 
 n.（名词）
 1. The choice between two mutually exclusive possibilities.两者择一，抉择：对两个互相排斥的可能情况的选择
@@ -13,3 +17,4 @@ an **alternative** lifestyle.一种超越古今的生活方式
 标新立异的：支持或反映出与正统相异的价值观的：
 an alternative newspaper; alternative greeting cards.
 一份观点标新立异的报纸；内容新颖的贺卡
+^1720339116264
