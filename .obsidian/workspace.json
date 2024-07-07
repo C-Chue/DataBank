@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f494d1c0a202914",
+            "id": "e55d2c4d6dd29706",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a28944aa02542b56",
+            "id": "72a8b73e832d8c37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solution 句型结构.md",
+                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "万国·英语/雅思/句型/Solution 句型结构.md"
               }
             }
           },
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,35 +191,39 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2f494d1c0a202914",
+  "active": "72a8b73e832d8c37",
   "lastOpenFiles": [
-    "Solution 句型结构.md",
-    "Planning.md",
-    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/acro-1.md",
-    "医学英语词根词缀分类数据库/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/身体；肢体；体层.md",
-    "万物食用指南/系统管理/Markdown 基本语法/使用指南/內部鏈接.md",
-    "万物食用指南/系统管理/Markdown 基本语法/外掛/頁面預覽.md",
-    "由此開始.md",
-    "医学英语词根词缀分类数据库/Catti 单词积累.md",
-    "implement.md",
-    "万国·西班牙语/ir a + infinitivo.md",
+    "万国·英语/雅思/雅思词库积累/alleviate.md",
+    "万国·英语/雅思/句型/Solution 句型结构.md",
+    "万国·英语/雅思/雅思词库积累/sustainability.md",
+    "万国·英语/雅思/雅思词库积累/sustain.md",
+    "万国·英语/雅思/雅思词库积累/blistering.md",
+    "万国·英语/雅思/雅思词库积累/efficacy.md",
+    "万国·英语/雅思/雅思词库积累/establish.md",
+    "万国·英语/雅思/雅思词库积累/holistic.md",
+    "万国·英语/雅思/雅思词库积累/initiatives.md",
+    "万国·英语/雅思/雅思词库积累/innovation.md",
+    "万国·英语/雅思/雅思词库积累/integrate.md",
+    "continuous.md",
+    "万国·英语/雅思/雅思词库积累/motivated.md",
+    "万国·英语/雅思/雅思词库积累/advocacy.md",
+    "万国·英语/雅思/雅思词库积累/acceptance.md",
+    "万国·英语/雅思/雅思词库积累/sustainable.md",
+    "万国·英语/雅思/雅思词库积累/leverage.md",
+    "万国·英语/雅思/雅思词库积累/underlying.md",
+    "万国·英语/雅思/雅思词库积累/rudimentary.md",
+    "万国·英语/雅思/句型",
+    "万国·英语/雅思/雅思词库积累/wrestle with.md",
+    "万国·英语/雅思/雅思词库积累/tackle.md",
     "Python.md",
-    "万国·西班牙语/words meet very fresh.md",
-    "万国·西班牙语/Spanish For Reading-名词词根.md",
-    "未命名",
-    "财务相关课程.md",
-    "ChatGPT学术写作的2个指令.md",
-    "世界艺术史/观照15｜薛江 颜海英：我绘我墓——古埃及“单色墓室壁画”.md",
-    "未命名.md",
-    "观影评审.md",
-    "医疗行业资讯及关联度/被低估的西门子CEO博乐仁.md",
-    "言尽意论.md",
-    "2024-04-21.md",
-    "2024-04-26.md",
-    "2024-04-15.md",
-    "2024-04-18.md",
-    "2024-04-11.md",
-    "2024-04-10.md",
+    "Planning.md",
+    "COLD EMAIL TEMPLATE FOR STUDENTS.md",
+    "财务/财务相关课程.md",
+    "财务",
+    "Daily Note/2024-04-21.md",
+    "万国·英语/雅思/雅思词库积累",
+    "万国·英语/雅思",
+    "万国·英语/Catti",
     "万国·西班牙语/单词记忆",
     "万物食用指南",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
@@ -234,10 +240,6 @@
     "科研&数据处理",
     "世界艺术史",
     "医疗行业资讯及关联度/德国企业.canvas",
-    "格致·恋爱的苏格拉底/未命名",
-    "万物食用指南/系统管理",
-    "万物食用指南/系统管理/Markdown 基本语法/許可證與附加服務",
-    "万物食用指南/系统管理/Markdown 基本语法/个性化定制",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
