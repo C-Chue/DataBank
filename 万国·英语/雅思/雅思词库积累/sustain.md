@@ -1,3 +1,7 @@
+---
+cards-deck: 万国·英语::雅思::雅思词库积累
+---
+
 
 **sustain** #Card 
 v.tr.（及物动词）  sus.tained,sus.tain.ing,sus.tains 
@@ -9,7 +13,10 @@ v.tr.（及物动词）  sus.tained,sus.tain.ing,sus.tains
 can't **sustain** the [[blistering]] heat.无法忍受酷热
 6. To experience or suffer:经历或遭受：
 **sustained** a fatal injury.See Synonyms at &b{experience} 遭受致命的伤害参见 experience
+^1720326610415
 7. To affirm the validity of:确定，认可：确认…的有效性：
 The judge has sustained the prosecutor's objection.法官确认原告反对为有效
 8. To prove or corroborate; confirm.证明或确证；证实
 9. To keep up (a joke or an assumed role, for example) competently.胜任：称职地维持（一笑话或角色）
+10. 
+^1720326610428

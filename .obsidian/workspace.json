@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc4fa0ebfb792796",
+        "id": "a882cebea391a3a9",
         "type": "tabs",
         "children": [
           {
-            "id": "e55d2c4d6dd29706",
+            "id": "30658c1ebbc96276",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72a8b73e832d8c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "万国·英语/雅思/句型/Solution 句型结构.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -191,36 +170,36 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "72a8b73e832d8c37",
+  "active": "30658c1ebbc96276",
   "lastOpenFiles": [
-    "万国·英语/雅思/雅思词库积累/alleviate.md",
-    "万国·英语/雅思/句型/Solution 句型结构.md",
+    "口语-part 2.md",
+    "allude.md",
+    "万国·英语/雅思/雅思词库积累/wrestle with.md",
+    "万国·英语/雅思/雅思词库积累/underlying.md",
+    "万国·英语/雅思/雅思词库积累/tackle.md",
+    "万国·英语/雅思/雅思词库积累/sustainable.md",
     "万国·英语/雅思/雅思词库积累/sustainability.md",
     "万国·英语/雅思/雅思词库积累/sustain.md",
-    "万国·英语/雅思/雅思词库积累/blistering.md",
-    "万国·英语/雅思/雅思词库积累/efficacy.md",
-    "万国·英语/雅思/雅思词库积累/establish.md",
-    "万国·英语/雅思/雅思词库积累/holistic.md",
-    "万国·英语/雅思/雅思词库积累/initiatives.md",
-    "万国·英语/雅思/雅思词库积累/innovation.md",
-    "万国·英语/雅思/雅思词库积累/integrate.md",
-    "continuous.md",
+    "万国·英语/雅思/雅思词库积累/subsidies.md",
+    "万国·英语/雅思/雅思词库积累/rudimentary.md",
+    "万国·英语/雅思/雅思词库积累/preliminary.md",
     "万国·英语/雅思/雅思词库积累/motivated.md",
+    "万国·英语/雅思/雅思词库积累/mitigate.md",
+    "万国·英语/雅思/雅思词库积累/leverage.md",
+    "万国·英语/雅思/雅思词库积累/innovation.md",
+    "万国·英语/雅思/雅思词库积累/incentives.md",
+    "万国·英语/雅思/雅思词库积累/initiatives.md",
+    "万国·英语/雅思/雅思词库积累/implement.md",
+    "万国·英语/雅思/雅思词库积累/holistic.md",
+    "万国·英语/雅思/雅思词库积累/establish.md",
+    "2024-07-07.md",
+    "万国·英语/雅思/雅思词库积累/comprehensive.md",
+    "万国·英语/雅思/雅思词库积累/blistering.md",
+    "万国·英语/雅思/雅思词库积累/alleviate.md",
     "万国·英语/雅思/雅思词库积累/advocacy.md",
     "万国·英语/雅思/雅思词库积累/acceptance.md",
-    "万国·英语/雅思/雅思词库积累/sustainable.md",
-    "万国·英语/雅思/雅思词库积累/leverage.md",
-    "万国·英语/雅思/雅思词库积累/underlying.md",
-    "万国·英语/雅思/雅思词库积累/rudimentary.md",
     "万国·英语/雅思/句型",
-    "万国·英语/雅思/雅思词库积累/wrestle with.md",
-    "万国·英语/雅思/雅思词库积累/tackle.md",
-    "Python.md",
-    "Planning.md",
-    "COLD EMAIL TEMPLATE FOR STUDENTS.md",
-    "财务/财务相关课程.md",
     "财务",
-    "Daily Note/2024-04-21.md",
     "万国·英语/雅思/雅思词库积累",
     "万国·英语/雅思",
     "万国·英语/Catti",

@@ -1,3 +1,5 @@
+
+
 **holistic** #Card 
 adj.（形容词）整体的; 全盘的
 1. Of or relating to holism.属于或有关整体论的

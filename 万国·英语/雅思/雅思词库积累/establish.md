@@ -1,7 +1,7 @@
 
 
 **establish** #Card 
-v.tr.（及物动词）  es.tablished,establishing,establishes 
+vtr.（及物动词）  established,establishing,establishes 
 1. To set up; found.See Synonyms at found 创建：建立；建造参见 found
 2. To bring about; generate:带来，招致：带来；引起：
 **establish** goodwill in the neighborhood.给邻居带来美好的祝福
