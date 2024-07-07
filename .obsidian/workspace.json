@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30658c1ebbc96276",
+            "id": "18cd86917dd9defa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "万国·英语/雅思/分板块/口语-part 2.md",
+                "file": "口语-part 2-Topic： 想颁布的新法律.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "万国·英语/雅思/分板块/口语-part 2.md",
+                "file": "口语-part 2-Topic： 想颁布的新法律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "万国·英语/雅思/分板块/口语-part 2.md"
+                "file": "口语-part 2-Topic： 想颁布的新法律.md"
               }
             }
           },
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "万国·英语/雅思/分板块/口语-part 2.md",
+                "file": "口语-part 2-Topic： 想颁布的新法律.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +179,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b1056b621cb081c4",
+  "active": "18cd86917dd9defa",
   "lastOpenFiles": [
+    "万国·英语/雅思/分板块/口语-part 2-思路结构.md",
+    "口语-part 2-Topic： 想颁布的新法律.md",
     "万国·英语/雅思/分板块",
-    "万国·英语/雅思/分板块/口语-part 2.md",
     "allude.md",
     "万国·英语/雅思/雅思词库积累/wrestle with.md",
     "万国·英语/雅思/雅思词库积累/underlying.md",
@@ -225,7 +227,6 @@
     "万物食用指南/系统管理/Image图片存储/Pasted image 20231202163753.png",
     "万物食用指南/系统管理/Image图片存储/Pasted image 20231203114925.png",
     "科研&数据处理",
-    "世界艺术史",
     "医疗行业资讯及关联度/德国企业.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
