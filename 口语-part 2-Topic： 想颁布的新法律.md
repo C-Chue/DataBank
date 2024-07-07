@@ -11,7 +11,7 @@ You should say:
 答案：
 I would like to propose a new law that addresses the issue of plastic waste management, which is becoming a critical environmental concern in my country. The law would be titled the "Comprehensive Plastic Waste Reduction Act."
 
-This law would introduce stricter regulations on single-use plastics, encourage recycling, and promote the use of biodegradable alternatives. It would mandate that businesses reduce the amount of plastic packaging they use and require them to charge a small fee for plastic bags provided to customers. Additionally, the law would provide incentives for companies that develop eco-friendly packaging solutions.
+This law would introduce stricter regulations on single-use plastics, encourage recycling, and promote the use of biodegradable alternatives. I t would mandate that businesses reduce the amount of plastic packaging they use and require them to charge a small fee for plastic bags provided to customers. Additionally, the law would provide incentives for companies that develop eco-friendly packaging solutions.
 
 The changes this law brings would be significant in terms of environmental conservation and public health. It would reduce the amount of plastic waste that ends up in landfills and oceans, protecting marine life and ecosystems. It would also raise public awareness about the negative impact of single-use plastics and the importance of adopting sustainable practices.
 
