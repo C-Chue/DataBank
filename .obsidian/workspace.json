@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47a91e8902ad5582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "万国·英语/雅思/Planing for 雅思.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -95,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to write the perfect CV.md",
+                "file": "万国·英语/雅思/Planing for 雅思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to write the perfect CV.md"
+                "file": "万国·英语/雅思/Planing for 雅思.md"
               }
             }
           },
@@ -166,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to write the perfect CV.md",
+                "file": "万国·英语/雅思/Planing for 雅思.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -204,9 +215,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b147a50158e67e31",
+  "active": "47a91e8902ad5582",
   "lastOpenFiles": [
     "How to write the perfect CV.md",
+    "万国·英语/雅思/Planing for 雅思.md",
     "Financial analysis & Assumption.md",
     "口语-part 2-Topic： 想颁布的新法律.md",
     "marine.md",
@@ -232,7 +244,6 @@
     "万国·英语/雅思/雅思词库积累/innovation.md",
     "万国·英语/雅思/雅思词库积累/incentives.md",
     "万国·英语/雅思/雅思词库积累/initiatives.md",
-    "万国·英语/雅思/雅思词库积累/implement.md",
     "万国·英语/雅思/句型",
     "财务",
     "万国·英语/雅思/雅思词库积累",
