@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47ad2f1fd6808a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "盘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结句型.md",
+                "file": "盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结句型.md"
+                "file": "盘.md"
               }
             }
           },
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结句型.md",
+                "file": "盘.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -214,10 +226,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "c99309a9637a48f5",
+  "active": "47ad2f1fd6808a8c",
   "lastOpenFiles": [
-    "万国·英语/雅思/句型/Solution 句型结构.md",
     "总结句型.md",
+    "盘.md",
+    "万国·英语/雅思/句型/Solution 句型结构.md",
     "万国·英语/雅思/Planing for 雅思.md",
     "口语-part 2-Topic： 想颁布的新法律.md",
     "How to write the perfect CV.md",
@@ -242,7 +255,6 @@
     "万国·英语/雅思/雅思词库积累/motivated.md",
     "万国·英语/雅思/雅思词库积累/mitigate.md",
     "万国·英语/雅思/雅思词库积累/leverage.md",
-    "万国·英语/雅思/雅思词库积累/innovation.md",
     "万国·英语/雅思/句型",
     "财务",
     "万国·英语/雅思/雅思词库积累",
