@@ -20,55 +20,19 @@
             }
           },
           {
-            "id": "b147a50158e67e31",
+            "id": "1831b247d95aa2d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人简历&文书/How to write the perfect CV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a91e8902ad5582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "万国·英语/雅思/句型/Solution 句型结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa1ffc69dbd04b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI&IT data analysis/未命名/Python for Beginners with Free Textbook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c99309a9637a48f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI&IT data analysis/Python 学习目标及计划.md",
+                "file": "How do i get a band 9 in IELTS writing task2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -136,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI&IT data analysis/未命名/Python for Beginners with Free Textbook.md",
+                "file": "How do i get a band 9 in IELTS writing task2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI&IT data analysis/未命名/Python for Beginners with Free Textbook.md"
+                "file": "How do i get a band 9 in IELTS writing task2.md"
               }
             }
           },
@@ -190,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI&IT data analysis/未命名/Python for Beginners with Free Textbook.md",
+                "file": "How do i get a band 9 in IELTS writing task2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,12 +192,15 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "fa1ffc69dbd04b45",
+  "active": "1831b247d95aa2d2",
   "lastOpenFiles": [
-    "AI&IT data analysis/Python 学习目标及计划.md",
-    "AI&IT data analysis/未命名/Python for Beginners with Free Textbook.md",
-    "colab.md",
+    "How do i get a band 9 in IELTS writing task2.md",
+    "财务/Financial analysis & Assumption.md",
+    "个人简历&文书/How to write the perfect CV.md",
     "万国·英语/雅思/句型/Solution 句型结构.md",
+    "AI&IT data analysis/未命名/Python for Beginners with Free Textbook.md",
+    "AI&IT data analysis/Python 学习目标及计划.md",
+    "colab.md",
     "AI&IT data analysis/未命名",
     "AI&IT data analysis",
     "万国·英语/雅思/雅思词库积累/Planning.md",
@@ -241,8 +208,6 @@
     "万国·英语/雅思/雅思词库积累/mandate.md",
     "财务/Free resouce-for Financial.md",
     "个人简历&文书/interview-ANFFF.md",
-    "个人简历&文书/How to write the perfect CV.md",
-    "财务/Financial analysis & Assumption.md",
     "医疗行业资讯及关联度/ENDPOINTS NEWS.md",
     "个人简历&文书/COLD EMAIL TEMPLATE FOR STUDENTS.md",
     "财务/FREE resource-2 of CMA.md",
@@ -259,7 +224,6 @@
     "个人简历&文书/辅助/3.2Prompts for CV.md",
     "个人简历&文书/辅助",
     "万物食用指南/Flashcards Use Document.md",
-    "万物食用指南/系统管理/由此開始.md",
     "写作创作",
     "个人简历&文书",
     "格致·恋爱的苏格拉底/Pasted image 20240726071536.png",
