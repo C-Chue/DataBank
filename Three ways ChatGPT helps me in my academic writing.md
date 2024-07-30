@@ -1,0 +1,35 @@
+Confession time: I use generative artificial intelligence (AI). Despite the debate over whether chatbots are positive or negative forces in academia, I use these tools almost daily to refine the phrasing in papers that I’ve written, and to seek an alternative assessment of work I’ve been asked to evaluate, as either a reviewer or an editor. AI even helped me to refine this article.
+
+I study personality and leadership at Católica Porto Business School in Portugal and am an associate editor at Personality and Individual Differences and Psychology of Leaders and Leadership. The value that I derive from generative AI is not from the technology itself blindly churning out text, but from engaging with the tool and using my own expertise to refine what it produces. The dialogue between me and the chatbot both enhances the coherence of my work and, over time, teaches me how to describe complex topics in a simpler way.
+
+Whether you’re using AI in writing, editing or peer review, here’s how it can do the same for you.
+
+Polishing academic writing
+
+Ever heard the property mantra, ‘location, location, location’? In the world of generative AI, it’s ‘context, context, context’.
+
+Context is king. You can’t expect generative AI — or anything or anyone, for that matter — to provide a meaningful response to a question without it. When you’re using a chatbot to refine a section of your paper for clarity, start by outlining the context. What is your paper about, and what is your main argument? Jot down your ideas in any format — even bullet points will work. Then, present this information to the generative AI of your choice. I typically use ChatGPT, made by OpenAI in San Francisco, California, but for tasks that demand a deep understanding of language nuances, such as analysing search queries or text, I find Gemini, developed by researchers at Google, to be particularly effective. The open-source large language models made by Mixtral, based in Paris, are ideal when you’re working offline but still need assistance from a chatbot.
+
+Regardless of which generative-AI tool you choose, the key to success lies in providing precise instructions. The clearer you are, the better. For example, you might write: “I’m writing a paper on [topic] for a leading [discipline] academic journal. What I tried to say in the following section is [specific point]. Please rephrase it for clarity, coherence and conciseness, ensuring each paragraph flows into the next. Remove jargon. Use a professional tone.” You can use the same technique again later on, to clarify your responses to reviewer comments.
+
+Remember, the chatbot’s first reply might not be perfect — it’s a collaborative and iterative process. You might need to refine your instructions or add more information, much as you would when discussing a concept with a colleague. It’s the interaction that improves the results. If something doesn’t quite hit the mark, don’t hesitate to say, “This isn’t quite what I meant. Let’s adjust this part.” Or you can commend its improvements: “This is much clearer, but let’s tweak the ending for a stronger transition to the next section.”
+
+This approach can transform a challenging task into a manageable one, filling the page with insights you might not have fully gleaned on your own. It’s like having a conversation that opens new perspectives, making generative AI a collaborative partner in the creative process of developing and refining ideas. But importantly, you are using the AI as a sounding board: it is not writing your document for you; nor is it reviewing manuscripts.
+
+Elevating peer review
+
+Generative AI can be a valuable tool in the peer-review process. After thoroughly reading a manuscript, summarize key points and areas for review. Then, use the AI to help organize and articulate your feedback (without directly inputting or uploading the manuscript’s text, thus avoiding privacy concerns). For example, you might instruct the AI: “Assume you’re an expert and seasoned scholar with 20+ years of academic experience in [field]. On the basis of my summary of a paper in [field], where the main focus is on [general topic], provide a detailed review of this paper, in the following order: 1) briefly discuss its core content; 2) identify its limitations; and 3) explain the significance of each limitation in order of importance. Maintain a concise and professional tone throughout.”
+
+I’ve found that AI partnerships can be incredibly enriching; the tools often offer perspectives I hadn’t considered. For instance, ChatGPT excels at explaining and justifying the reasons behind specific limitations that I had identified in my review, which helps me to grasp the broader implications of the study’s contribution. If I identify methodological limitations, ChatGPT can elaborate on these in detail and suggest ways to overcome them in a revision. This feedback often helps me to connect the dots between the limitations and their collective impact on the paper’s overall contribution. Occasionally, however, its suggestions are off-base, far-fetched, irrelevant or simply wrong. And that is why the final responsibility for the review always remains with you. A reviewer must be able to distinguish between what is factual and what is not, and no chatbot can reliably do that.
+
+Optimizing editorial feedback
+
+The final area in which I benefit from using chatbots is in my role as a journal editor. Providing constructive editorial feedback to authors can be challenging, especially when you oversee several manuscripts every week. Having personally received countless pieces of unhelpful, non-specific feedback — such as, “After careful consideration, we have decided not to proceed with your manuscript” — I recognize the importance of clear and constructive communication. ChatGPT has become indispensable in this process, helping me to craft precise, empathetic and actionable feedback without replacing human editorial decisions.
+
+For instance, after evaluating a paper and noting its pros and cons, I might feed these into ChatGPT and get it to draft a suitable letter: “On the basis of these notes, draft a letter to the author. Highlight the manuscript’s key issues and clearly explain why the manuscript, despite its interesting topic, might not provide a substantial enough advancement to merit publication. Avoid jargon. Be direct. Maintain a professional and respectful tone throughout.” Again, it might take a few iterations to get the tone and content just right.
+
+I’ve found that this approach both enhances the quality of my feedback and helps to guarantee that I convey my thoughts supportively. The result is a more positive and productive dialogue between editors and authors.
+
+There is no doubt that generative AI presents challenges to the scientific community. But it can also enhance the quality of our work. These tools can bolster our capabilities in writing, reviewing and editing. They preserve the essence of scientific inquiry — curiosity, critical thinking and innovation — while improving how we communicate our research.
+
+Considering the benefits, what are you waiting for?
