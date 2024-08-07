@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +205,8 @@
   },
   "active": "82b8fff2b37f97cd",
   "lastOpenFiles": [
-    "每个人都有自己的人生课题.md",
     "我们永远不会准备好.md",
+    "每个人都有自己的人生课题.md",
     "写作创作/阅读计划.md",
     "写作创作/英文小说应聘.md",
     "写作创作/Cover Letter for the English novel.md",
