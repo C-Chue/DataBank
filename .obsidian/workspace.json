@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b355372d5c3ded5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The school.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "The school.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "The school.md"
               }
             }
           },
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "The school.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +190,9 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "5af0de5f1d830965",
+  "active": "0b355372d5c3ded5",
   "lastOpenFiles": [
+    "The school.md",
     "未命名.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/corp.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/21药品",
@@ -207,7 +221,6 @@
     "财务/Free resouce-for Financial.md",
     "个人简历&文书/interview-ANFFF.md",
     "医疗行业资讯及关联度/ENDPOINTS NEWS.md",
-    "个人简历&文书/COLD EMAIL TEMPLATE FOR STUDENTS.md",
     "学术写作 Academic Writing",
     "个人简历&文书/辅助",
     "写作创作",
