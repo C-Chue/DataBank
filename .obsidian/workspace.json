@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "628cc3fe164f4622",
+        "id": "bcc4ae1492e0ead5",
         "type": "tabs",
         "children": [
           {
-            "id": "622875a18332d871",
+            "id": "5af0de5f1d830965",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作创作/阅读计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72f4afd1065e28e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我们永远不会准备好.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82b8fff2b37f97cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每个人都有自己的人生课题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4be9dad7c620935b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "写作创作/Cover Letter for the English novel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9eb3c2505def95b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cover Letter fo New Zealand visa.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -119,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -136,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cover Letter fo New Zealand visa.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cover Letter fo New Zealand visa.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -190,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cover Letter fo New Zealand visa.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -227,13 +177,18 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "d9eb3c2505def95b",
+  "active": "5af0de5f1d830965",
   "lastOpenFiles": [
-    "Cover Letter fo New Zealand visa.md",
-    "写作创作/Cover Letter for the English novel.md",
-    "每个人都有自己的人生课题.md",
-    "我们永远不会准备好.md",
+    "未命名.md",
+    "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/corp.md",
+    "万国·英语/医学英语词根词缀分类数据库/01主库/21药品",
+    "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/body.md",
+    "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/身体；肢体；体层.md",
     "写作创作/阅读计划.md",
+    "写作创作/我们永远不会准备好.md",
+    "写作创作/每个人都有自己的人生课题.md",
+    "写作创作/Cover Letter for the English novel.md",
+    "Cover Letter fo New Zealand visa.md",
     "写作创作/英文小说应聘.md",
     "How do i get a band 9 in IELTS writing task2.md",
     "写作创作/一封来自十年后的回信.md",
@@ -253,11 +208,7 @@
     "个人简历&文书/interview-ANFFF.md",
     "医疗行业资讯及关联度/ENDPOINTS NEWS.md",
     "个人简历&文书/COLD EMAIL TEMPLATE FOR STUDENTS.md",
-    "财务/FREE resource-2 of CMA.md",
-    "学习习惯/KWL.md",
-    "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
     "学术写作 Academic Writing",
-    "万国·英语/雅思/雅思词库积累/biodegradable.md",
     "个人简历&文书/辅助",
     "写作创作",
     "个人简历&文书",
@@ -265,7 +216,6 @@
     "万国·英语/雅思/分板块",
     "万国·英语/雅思/句型",
     "财务",
-    "万国·英语/雅思/雅思词库积累",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220119.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
