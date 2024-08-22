@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -192,8 +193,8 @@
   },
   "active": "0b355372d5c3ded5",
   "lastOpenFiles": [
-    "The school.md",
     "未命名.md",
+    "The school.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/corp.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/21药品",
     "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/body.md",
