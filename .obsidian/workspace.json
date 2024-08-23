@@ -11,9 +11,11 @@
             "id": "13f1191e4dd38089",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "格致·恋爱的苏格拉底/Photo of E.Ada Cavalcanti-Adam.png"
+                "file": "感兴趣的导师.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "格致·恋爱的苏格拉底/Photo of E.Ada Cavalcanti-Adam.png",
+                "file": "感兴趣的导师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "格致·恋爱的苏格拉底/Photo of E.Ada Cavalcanti-Adam.png"
+                "file": "感兴趣的导师.md"
               }
             }
           },
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "格致·恋爱的苏格拉底/Photo of E.Ada Cavalcanti-Adam.png",
+                "file": "感兴趣的导师.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +188,9 @@
   },
   "active": "13f1191e4dd38089",
   "lastOpenFiles": [
-    "感兴趣的导师.md",
+    "格致·恋爱的苏格拉底/Pasted image 20240824002830.png",
     "格致·恋爱的苏格拉底/Photo of E.Ada Cavalcanti-Adam.png",
+    "感兴趣的导师.md",
     "格致·恋爱的苏格拉底/Pasted image 20240823235958.png",
     "个人简介.md",
     "格致·恋爱的苏格拉底/Photo of Job Boekhoven.png",
