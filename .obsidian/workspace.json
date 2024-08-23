@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The school.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The school.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The school.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +190,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0b355372d5c3ded5",
+  "active": "5af0de5f1d830965",
   "lastOpenFiles": [
-    "未命名.md",
     "The school.md",
+    "未命名.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/corp.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/21药品",
     "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/body.md",
