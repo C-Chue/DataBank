@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bcc4ae1492e0ead5",
+        "id": "ef91e8dc9ed85f66",
         "type": "tabs",
         "children": [
           {
-            "id": "5af0de5f1d830965",
+            "id": "13f1191e4dd38089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作创作/写作灵感/Podcasts learning-Play's wright's.md",
+                "file": "感兴趣的导师.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作创作/写作灵感/Podcasts learning-Play's wright's.md",
+                "file": "感兴趣的导师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作创作/写作灵感/Podcasts learning-Play's wright's.md"
+                "file": "感兴趣的导师.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作创作/写作灵感/Podcasts learning-Play's wright's.md",
+                "file": "感兴趣的导师.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +186,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b1056b621cb081c4",
+  "active": "13f1191e4dd38089",
   "lastOpenFiles": [
-    "写作创作/写作灵感",
+    "个人简介.md",
+    "感兴趣的导师.md",
+    "格致·恋爱的苏格拉底/Photo of Job Boekhoven.png",
     "写作创作/写作灵感/Podcasts learning-Play's wright's.md",
+    "写作创作/写作灵感",
     "The school.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/corp.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/21药品",
@@ -216,7 +219,6 @@
     "万国·英语/雅思/雅思词库积累/marine.md",
     "万国·英语/雅思/雅思词库积累/mandate.md",
     "财务/Free resouce-for Financial.md",
-    "个人简历&文书/interview-ANFFF.md",
     "学术写作 Academic Writing",
     "个人简历&文书/辅助",
     "写作创作",
@@ -224,7 +226,6 @@
     "格致·恋爱的苏格拉底/Pasted image 20240726071536.png",
     "万国·英语/雅思/分板块",
     "万国·英语/雅思/句型",
-    "财务",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220119.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
@@ -233,7 +234,6 @@
     "万物食用指南/系统管理/Image图片存储/Pasted image 20231204222140.png",
     "万物食用指南/系统管理/Image图片存储/Pasted image 20231204222129.png",
     "万物食用指南/系统管理/Image图片存储/Lilly Pharmakonzern.png",
-    "万物食用指南/系统管理/Image图片存储/Pasted image 20231202163753.png",
     "医疗行业资讯及关联度/德国企业.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
