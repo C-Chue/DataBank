@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "感兴趣的导师.md",
+                "file": "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "感兴趣的导师.md",
+                "file": "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "感兴趣的导师.md"
+                "file": "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "感兴趣的导师.md",
+                "file": "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +185,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "13f1191e4dd38089",
+  "active": "b1056b621cb081c4",
   "lastOpenFiles": [
+    "学术写作 Academic Writing/Three ways ChatGPT helps me in my academic writing.md",
+    "感兴趣的导师.md",
     "格致·恋爱的苏格拉底/Pasted image 20240824002830.png",
     "格致·恋爱的苏格拉底/Photo of E.Ada Cavalcanti-Adam.png",
-    "感兴趣的导师.md",
     "格致·恋爱的苏格拉底/Pasted image 20240823235958.png",
     "个人简介.md",
     "格致·恋爱的苏格拉底/Photo of Job Boekhoven.png",
@@ -210,7 +210,6 @@
     "How do i get a band 9 in IELTS writing task2.md",
     "写作创作/一封来自十年后的回信.md",
     "财务/Financial analysis & Assumption.md",
-    "Three ways ChatGPT helps me in my academic writing.md",
     "个人简历&文书/How to write the perfect CV.md",
     "万国·英语/雅思/句型/Solution 句型结构.md",
     "AI&IT data analysis/未命名/Python for Beginners with Free Textbook.md",
@@ -233,7 +232,6 @@
     "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220058.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220045.png",
-    "万物食用指南/系统管理/Image图片存储/Pasted image 20231204222140.png",
     "医疗行业资讯及关联度/德国企业.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
