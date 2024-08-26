@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13f1191e4dd38089",
+            "id": "5247a94313179b2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
+                "file": "APS 面试准备/制药工程专业/制药工程专业简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62280d6dd3de8891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药饮片.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
+                "file": "中药饮片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md"
+                "file": "中药饮片.md"
               }
             }
           },
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
+                "file": "中药饮片.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +200,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b1056b621cb081c4",
+  "active": "62280d6dd3de8891",
   "lastOpenFiles": [
+    "中药饮片.md",
+    "APS 面试准备/制药工程专业/制药工程专业简介.md",
+    "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
+    "APS 面试准备/制药工程专业",
+    "APS 面试准备",
     "学术写作 Academic Writing/Three ways ChatGPT helps me in my academic writing.md",
     "感兴趣的导师.md",
     "格致·恋爱的苏格拉底/Pasted image 20240824002830.png",
@@ -218,15 +238,11 @@
     "AI&IT data analysis/未命名",
     "AI&IT data analysis",
     "万国·英语/雅思/雅思词库积累/Planning.md",
-    "万国·英语/雅思/雅思词库积累/marine.md",
-    "万国·英语/雅思/雅思词库积累/mandate.md",
     "学术写作 Academic Writing",
     "个人简历&文书/辅助",
     "写作创作",
     "个人简历&文书",
     "格致·恋爱的苏格拉底/Pasted image 20240726071536.png",
-    "万国·英语/雅思/分板块",
-    "万国·英语/雅思/句型",
     "万物食用指南/系统管理/Image图片存储/德国《商报》.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220119.png",
     "格致·恋爱的苏格拉底/Pasted image 20231208220113.png",
