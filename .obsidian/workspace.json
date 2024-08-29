@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f0d4b00273be993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药分离工程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APS 面试准备/制药工程专业/制药工程专业简介.md",
+                "file": "中药分离工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APS 面试准备/制药工程专业/制药工程专业简介.md"
+                "file": "中药分离工程.md"
               }
             }
           },
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APS 面试准备/制药工程专业/制药工程专业简介.md",
+                "file": "中药分离工程.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,13 +199,14 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "9b18cea95decc47f",
+  "active": "0f0d4b00273be993",
   "lastOpenFiles": [
+    "中药分离工程.md",
+    "APS 面试准备/制药工程专业/制药工程专业简介.md",
     "个人简历&文书/辅助/3.2Prompts for CV.md",
     "个人简历&文书/interview-ANFFF.md",
     "How do i get a band 9 in IELTS writing task2.md",
     "Cover Letter fo New Zealand visa.md",
-    "APS 面试准备/制药工程专业/制药工程专业简介.md",
     "制药行业常用英语词汇（中英对照）.md",
     "中草药、天然药物.md",
     "中药.md",
@@ -221,7 +235,6 @@
     "写作创作/英文小说应聘.md",
     "写作创作/一封来自十年后的回信.md",
     "财务/Financial analysis & Assumption.md",
-    "个人简历&文书/How to write the perfect CV.md",
     "AI&IT data analysis/未命名",
     "AI&IT data analysis",
     "学术写作 Academic Writing",
