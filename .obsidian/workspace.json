@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中药分离工程.md",
+                "file": "APS 面试准备/制药工程专业/制药工程专业简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中药分离工程.md"
+                "file": "APS 面试准备/制药工程专业/制药工程专业简介.md"
               }
             }
           },
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中药分离工程.md",
+                "file": "APS 面试准备/制药工程专业/制药工程专业简介.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +199,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0f0d4b00273be993",
+  "active": "9b18cea95decc47f",
   "lastOpenFiles": [
     "中药分离工程.md",
     "APS 面试准备/制药工程专业/制药工程专业简介.md",
