@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -187,7 +186,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b1056b621cb081c4",
+  "active": "390fb84fa8fc7abb",
   "lastOpenFiles": [
     "感兴趣的导师.md",
     "APS 面试准备/制药工程专业/制药工程专业简介.md",
