@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "制药行业常用英语词汇（中英对照）.md",
+                "file": "万国·英语/雅思/雅思词库积累/acceptance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a14f0bf9c744f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "halt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "制药行业常用英语词汇（中英对照）.md",
+                "file": "halt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "制药行业常用英语词汇（中英对照）.md"
+                "file": "halt.md"
               }
             }
           },
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "制药行业常用英语词汇（中英对照）.md",
+                "file": "halt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +199,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "d0378625ac2e575d",
+  "active": "0a14f0bf9c744f5b",
   "lastOpenFiles": [
-    "Cover Letter fo New Zealand visa.md",
+    "万国·英语/雅思/雅思词库积累/acceptance.md",
+    "halt.md",
+    "万国·英语/雅思/雅思词库积累/advocacy.md",
     "制药行业常用英语词汇（中英对照）.md",
+    "Cover Letter fo New Zealand visa.md",
     "中草药、天然药物.md",
     "感兴趣的导师.md",
     "APS 面试准备/制药工程专业/制药工程专业简介.md",
@@ -218,9 +235,6 @@
     "写作创作/我们永远不会准备好.md",
     "写作创作/每个人都有自己的人生课题.md",
     "写作创作/Cover Letter for the English novel.md",
-    "写作创作/英文小说应聘.md",
-    "写作创作/一封来自十年后的回信.md",
-    "财务/Financial analysis & Assumption.md",
     "AI&IT data analysis/未命名",
     "AI&IT data analysis",
     "学术写作 Academic Writing",
