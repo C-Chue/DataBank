@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c62ca985755e855b",
+        "id": "70668de9b8b9fc7a",
         "type": "tabs",
         "children": [
           {
-            "id": "d0378625ac2e575d",
+            "id": "39f1da7050e73d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "万国·英语/雅思/雅思词库积累/acceptance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a14f0bf9c744f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "halt.md",
+                "file": "Endpoints News.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -62,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LSAG",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0eb7b0093567a10",
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "halt.md",
+                "file": "Endpoints News.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "halt.md"
+                "file": "Endpoints News.md"
               }
             }
           },
@@ -162,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "halt.md",
+                "file": "Endpoints News.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -199,42 +184,42 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0a14f0bf9c744f5b",
+  "active": "39f1da7050e73d1d",
   "lastOpenFiles": [
-    "万国·英语/雅思/雅思词库积累/acceptance.md",
-    "halt.md",
-    "万国·英语/雅思/雅思词库积累/advocacy.md",
-    "制药行业常用英语词汇（中英对照）.md",
-    "Cover Letter fo New Zealand visa.md",
+    "testimony.md",
+    "Endpoints News.md",
+    "experimental.md",
+    "医疗行业资讯及关联度/China startup injects CRISPR therapy into the brain for the first time.md",
+    "万国·英语/雅思/句型/Solution 句型结构.md",
+    "万国·英语/雅思/雅思词库积累/sustainability.md",
+    "万国·英语/雅思/雅思词库积累/sustainable.md",
+    "医疗行业资讯及关联度/礼来制药将在德国投资23亿欧元，第三大国外企业在德国的投资.md",
+    "Daily Note/2021-06-19 波斯语课学习会.md",
+    "Daily Note/2024-04-15.md",
     "中草药、天然药物.md",
-    "感兴趣的导师.md",
-    "APS 面试准备/制药工程专业/制药工程专业简介.md",
+    "制药行业常用英语词汇（中英对照）.md",
     "中药分离工程.md",
-    "个人简历&文书/辅助/3.2Prompts for CV.md",
-    "个人简历&文书/interview-ANFFF.md",
-    "How do i get a band 9 in IELTS writing task2.md",
-    "中药.md",
+    "halt.md",
     "中药饮片.md",
-    "学术写作 Academic Writing/ChatGPT学术写作的2个指令.md",
+    "感兴趣的导师.md",
+    "个人简介.md",
+    "Cover Letter fo New Zealand visa.md",
+    "How do i get a band 9 in IELTS writing task2.md",
+    "医疗行业资讯及关联度/德国疫苗制造商BioNTech与中国生物技术公司映恩生物展开合作.md",
+    "医疗行业资讯及关联度/2023-11-21.md",
+    "医疗行业资讯及关联度/一边赚1.9亿，一边亏损6130万.md",
+    "医疗行业资讯及关联度/2023-11-20.md",
+    "万国·英语/雅思/雅思词库积累/marine.md",
+    "未命名.md",
+    "万国·英语/雅思/雅思词库积累/acceptance.md",
     "APS 面试准备/制药工程专业",
     "APS 面试准备",
-    "学术写作 Academic Writing/Three ways ChatGPT helps me in my academic writing.md",
     "格致·恋爱的苏格拉底/Pasted image 20240824002830.png",
     "格致·恋爱的苏格拉底/Photo of E.Ada Cavalcanti-Adam.png",
     "格致·恋爱的苏格拉底/Pasted image 20240823235958.png",
-    "个人简介.md",
     "格致·恋爱的苏格拉底/Photo of Job Boekhoven.png",
-    "写作创作/写作灵感/Podcasts learning-Play's wright's.md",
     "写作创作/写作灵感",
-    "The school.md",
-    "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/corp.md",
     "万国·英语/医学英语词根词缀分类数据库/01主库/21药品",
-    "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/body.md",
-    "万国·英语/医学英语词根词缀分类数据库/01主库/01解剖部位/001身体；肢体；体层/身体；肢体；体层.md",
-    "写作创作/阅读计划.md",
-    "写作创作/我们永远不会准备好.md",
-    "写作创作/每个人都有自己的人生课题.md",
-    "写作创作/Cover Letter for the English novel.md",
     "AI&IT data analysis/未命名",
     "AI&IT data analysis",
     "学术写作 Academic Writing",

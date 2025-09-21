@@ -139,7 +139,13 @@
     "人工智能AI": 85,
     "Company/Siemens": 36,
     "Company/微软": 37,
-    "Card": 86
+    "Card": 86,
+    "StartupsR": 87,
+    "Startups": 88,
+    "R": 89,
+    "RandD-China": 90,
+    "Endpoints": 91,
+    "EndpointsNews": 92
   },
   "_version": 2
 }
