@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7565b01597c39cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025 Endpoints 11 winners of the biotech startups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LSAG",
+                "query": "tag:#Company/AvernaTherapeutics",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Endpoints News.md",
+                "file": "2025 Endpoints 11 winners of the biotech startups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Endpoints News.md"
+                "file": "2025 Endpoints 11 winners of the biotech startups.md"
               }
             }
           },
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Endpoints News.md",
+                "file": "2025 Endpoints 11 winners of the biotech startups.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +198,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "39f1da7050e73d1d",
+  "active": "b19eabe8fcac21e1",
   "lastOpenFiles": [
-    "testimony.md",
     "Endpoints News.md",
+    "2025 Endpoints 11 winners of the biotech startups.md",
+    "万物食用指南/系统管理/Markdown 基本语法/使用指南/標籤的使用.md",
+    "testimony.md",
     "experimental.md",
     "医疗行业资讯及关联度/China startup injects CRISPR therapy into the brain for the first time.md",
     "万国·英语/雅思/句型/Solution 句型结构.md",
@@ -210,8 +226,6 @@
     "医疗行业资讯及关联度/一边赚1.9亿，一边亏损6130万.md",
     "医疗行业资讯及关联度/2023-11-20.md",
     "万国·英语/雅思/雅思词库积累/marine.md",
-    "未命名.md",
-    "万国·英语/雅思/雅思词库积累/acceptance.md",
     "APS 面试准备/制药工程专业",
     "APS 面试准备",
     "格致·恋爱的苏格拉底/Pasted image 20240824002830.png",
